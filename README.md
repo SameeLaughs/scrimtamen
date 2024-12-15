@@ -1,6 +1,6 @@
 # scrimtamen
 
-Scrimantem is a game designed for practicing advanced Certamen questions. The name itself doesn't have an actual meaning, but it's a portmanteau from two different languages- scrimming and certamen! Instead, it sounds like scrim-however, but we don't talk about that :)
+Scrimtamen is a game designed for practicing advanced Certamen questions. The name itself doesn't have an actual meaning, but it's a portmanteau from two different languages- scrimming and certamen! Instead, it sounds like scrim-however, but we don't talk about that :)
 
 _oh yeah!!_
 - Buzz in, type your answer, and check your score in real-time 💯
