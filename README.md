@@ -16,7 +16,7 @@ _Currently Uploaded Sets (all advanced)_
 More sets will be added soon!
 
 _agenda est_
-- Expand answer validation to accept alternate spellings and phrasing.
-    - Note: Since the goal is personal growth and mastery, the current system relies on you knowing the material, even if the exact phrasing isn’t recognized.
+- Expand answer validation to accept alternate spellings and phrasing and stuff.
+    - since the goal is personal growth the current system relies on you knowing the material- even if the exact phrasing isn’t 'correct'
 - Add more sets
 - Add explanations for correct answers
