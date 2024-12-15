@@ -132,7 +132,6 @@
         <button id="clearLogButton">Clear Log</button>
     </div>
 
-    <!-- Category Selection Modal -->
     <div id="categorySelection" class="modal" style="display:flex;">
         <div class="category-content">
             <h2>Select Categories</h2>
@@ -145,7 +144,6 @@
         </div>
     </div>
 
-    <!-- Modal for log -->
     <div class="modal" id="logModal">
         <div class="modal-content" style="max-height: 70vh; overflow-y: auto;">
             <h2>Quiz Log</h2>
@@ -195,21 +193,27 @@
     }
 
     function startGame() {
-        selectedCategories = [];
-        document.getElementById("myth").checked && selectedCategories.push("Myth");
-        document.getElementById("language").checked && selectedCategories.push("Language");
-        document.getElementById("literature").checked && selectedCategories.push("Literature");
-        document.getElementById("history").checked && selectedCategories.push("History");
+    selectedCategories = [];
+    // Collect selected categories
+    document.getElementById("myth").checked && selectedCategories.push("Myth");
+    document.getElementById("language").checked && selectedCategories.push("Language");
+    document.getElementById("literature").checked && selectedCategories.push("Literature");
+    document.getElementById("history").checked && selectedCategories.push("History");
 
-        if (selectedCategories.length === 0) {
-            alert("Please select at least one category.");
-            return;
-        }
-
-        document.getElementById("categorySelection").style.display = "none";
-        document.getElementById("gameContainer").style.display = "flex";
-        loadQuestions();
+    // Check if at least one category is selected
+    if (selectedCategories.length === 0) {
+        alert("Please select at least one category.");
+        return; // Stop execution if no categories are selected
     }
+
+    // Hide the category selection modal
+    document.getElementById("categorySelection").style.display = "none";
+    // Show the game container
+    document.getElementById("gameContainer").style.display = "flex";
+    // Load questions and start the game
+    loadQuestions();
+}
+
     
     function startQuestion() {
         resetTimer();
