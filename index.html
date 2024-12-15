@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>scrimantem</title>
     <style>
+
         body {
             font-family: 'Tahoma', sans-serif;
             margin: 0;
@@ -131,27 +132,28 @@
         <button id="clearLogButton">Clear Log</button>
     </div>
 
-<!-- Category Selection Modal -->
+    <!-- Category Selection Modal -->
     <div id="categorySelection" class="modal" style="display:flex;">
         <div class="category-content">
             <h2>Select Categories</h2>
-            <p>Choose categories to be included.</p>
+            <p>Choose categories to be included in the quiz.</p>
             <label><input type="checkbox" id="myth" checked> Myth</label><br>
             <label><input type="checkbox" id="language" checked> Language</label><br>
             <label><input type="checkbox" id="literature" checked> Literature</label><br>
             <label><input type="checkbox" id="history" checked> History</label><br><br>
-            <button onclick="startGame()">Start</button>
+            <button onclick="startGame()">Start Game</button>
         </div>
     </div>
 
-   <!-- Modal for log -->
-<div class="modal" id="logModal">
-    <div class="modal-content" style="max-height: 70vh; overflow-y: auto;">
-        <h2>Quiz Log</h2>
-        <div id="logContent"></div>
-        <button onclick="closeLog()">Close</button>
+    <!-- Modal for log -->
+    <div class="modal" id="logModal">
+        <div class="modal-content" style="max-height: 70vh; overflow-y: auto;">
+            <h2>Quiz Log</h2>
+            <div id="logContent"></div>
+            <button onclick="closeLog()">Close</button>
+        </div>
     </div>
-</div>
+    
 <script>
     let questions = [];
     let selectedCategories = [];
@@ -163,9 +165,17 @@
     let buzzedWord = "";
     let buzzedTimeLeft = 30;
 
+    // ohh yeaaaa fisher-Yates algorithm
+    function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];  // Swap elements
+        }
+    }
+
     async function loadQuestions() {
         try {
-            const response = await fetch('questions.json');
+            const response = await fetch('qna.json');
             const allQuestions = await response.json();
             questions = allQuestions.filter(q => selectedCategories.includes(q.category));
             
@@ -175,6 +185,8 @@
                 document.getElementById("gameContainer").style.display = "none";
                 return;
             }
+            
+            shuffleArray(questions);  // Shuffle the questions
             startQuestion();
         } catch (error) {
             console.error("Error loading questions:", error);
@@ -201,14 +213,16 @@
     
     function startQuestion() {
         resetTimer();
-        let newQuestionIndex;
-        do {
-            newQuestionIndex = Math.floor(Math.random() * questions.length);
-        } while (newQuestionIndex === currentQuestionIndex);
+        if (currentQuestionIndex < questions.length - 1) {
+            currentQuestionIndex++;
+        } else {
+            alert("You've gfone through all the questions. The game will now restart.");
+            startGame();  // Restart the game
+            return;
+        }
 
-        currentQuestionIndex = newQuestionIndex;
         currentWordIndex = 0;
-        document.getElementById("question").innerText = "";  
+        document.getElementById("question").innerText = "";
         document.getElementById("answerInput");
         document.getElementById("submitAnswer");
         document.getElementById("buzzButton").disabled = false;
@@ -280,7 +294,7 @@
         const log = JSON.parse(localStorage.getItem("quizLog") || "[]");
         const logContent = document.getElementById("logContent");
         logContent.innerHTML = log.length
-            ? log.map(entry => `<p><b>Question:</b> ${entry.question}<br><b>Your Answer:</b> ${entry.userAnswer}<br><b>Result:</b> ${entry.result}<br><b>Correct Answer:</b> ${entry.correctAnswer}<br><b>Buzzed Word:</b> ${entry.buzzedWord}<br><b>Time Left on Buzz:</b> ${entry.buzzedTimeLeft} seconds</p><hr>`).join('')
+            ? log.map(entry => <p><b>Question:</b> ${entry.question}<br><b>Your Answer:</b> ${entry.userAnswer}<br><b>Result:</b> ${entry.result}<br><b>Correct Answer:</b> ${entry.correctAnswer}<br><b>Buzzed Word:</b> ${entry.buzzedWord}<br><b>Time Left on Buzz:</b> ${entry.buzzedTimeLeft} seconds</p><hr>).join('')
             : "<p>No attempts logged yet.</p>";
 
         document.getElementById("logModal").style.display = "flex";
@@ -319,8 +333,7 @@
 </script>
 
     <footer style="position: fixed; bottom: 10px; width: 100%; text-align: center; font-size: 12px; color: #777;">
-        sameelaughs and rubyskates09
+        sameelaughs
     </footer>
 </body>
 </html>
-
