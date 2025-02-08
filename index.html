@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>scrimantem</title>
-    <link rel="stylesheet" href="style.css">
-        <style>
+    <style>
         body {
             font-family: 'Tahoma', sans-serif;
             margin: 0;
@@ -17,7 +16,7 @@
             align-items: center;
             height: 100vh;
         }
-        
+
         .container {
             display: flex;
             flex-direction: column;
@@ -55,18 +54,16 @@
             border: none;
             border-radius: 8px;
         }
-        
+
         #submitAnswer{
             background-color: lightblue;
-            
-            
         }
-        
+
         #buzzButton {
             background-color: #4caf50;
             color: white;
         }
-      
+
         #answerInput {
             padding: 10px;
             font-size: 16px;
@@ -115,25 +112,24 @@
             border: none;
         }
     </style>
-
 </head>
 <body>
 
     <button id="modeToggleButton">Toggle Mode</button>
     <div class="container" id="gameContainer" style="display:none;">
         <h1>scrimantem</h1>
-        <p>Advanced Certamen Questions - only tossups</p>
+        <p>Advanced Certamen Questions</p>
         <div id="timer">Time Left: <span id="timeLeft">30</span> seconds</div>
         <div id="question"></div>
         <button id="buzzButton">Buzz!</button>
         <input type="text" id="answerInput" placeholder="Your answer..." />
         <button id="submitAnswer">Submit Answer</button>
-        <div id="score">Score: 0</div>
+    <!--    <div id="score">Score: 0</div> -->
         <button id="viewLogButton" onclick="viewLog()">View Log</button>
         <button id="clearLogButton">Clear Log</button>
     </div>
 
-    <!-- Category Selection Modal -->
+<!-- Category Selection Modal -->
     <div id="categorySelection" class="modal" style="display:flex;">
         <div class="category-content">
             <h2>Select Categories</h2>
@@ -141,24 +137,205 @@
             <label><input type="checkbox" id="myth" checked> Myth</label><br>
             <label><input type="checkbox" id="language" checked> Language</label><br>
             <label><input type="checkbox" id="literature" checked> Literature</label><br>
-            <label><input type="checkbox" id="history" checked> History</label><br><br>
+            <label><input type="checkbox" id="history" checked> History</label><br>
+            <label><input type="checkbox" id="uncategorized" checked>Uncategorized</label><br><br>
             <button onclick="startGame()">Start</button>
         </div>
     </div>
 
-    <!-- Modal for log -->
-    <div class="modal" id="logModal">
-        <div class="modal-content" style="max-height: 70vh; overflow-y: auto;">
-            <h2>Quiz Log</h2>
-            <div id="logContent"></div>
-            <button onclick="closeLog()">Close</button>
-        </div>
+   <!-- Modal for log -->
+<div class="modal" id="logModal">
+    <div class="modal-content" style="max-height: 70vh; overflow-y: auto;">
+        <h2>Quiz Log</h2>
+        <div id="logContent"></div>
+        <button onclick="closeLog()">Close</button>
     </div>
+</div>
+<script>
+    let questions = [];
+    let selectedCategories = [];
+    let currentQuestionIndex = -1;
+    let score = 0;
+    let intervalId, timerId;
+    let currentWordIndex = 0;
+    let timeLeft = 30;
+    let buzzedWord = "";
+    let buzzedTimeLeft = 30;
 
+    async function loadQuestions() {
+    try {
+        const response = await fetch('questions.json');
+        const allQuestions = await response.json();
+        
+        questions = allQuestions.filter(q => {
+            // no category is selected, include everything
+            if (selectedCategories.length === 0) return true;
+            
+            return selectedCategories.some(category => category === "Uncategorized" || q.category === category);
+        });
+        
+        if (questions.length === 0) {
+            alert("No questions available for the selected categories.");
+            document.getElementById("categorySelection").style.display = "flex";
+            document.getElementById("gameContainer").style.display = "none";
+            return;
+        }
+        startQuestion();
+    } catch (error) {
+        console.error("Error loading questions:", error);
+        document.getElementById("question").innerText = "There was an issue loading the questions.";
+    }
+}
+
+
+    function startGame() {
+        selectedCategories = [];
+        document.getElementById("myth").checked && selectedCategories.push("Myth");
+        document.getElementById("language").checked && selectedCategories.push("Language");
+        document.getElementById("literature").checked && selectedCategories.push("Literature");
+        document.getElementById("history").checked && selectedCategories.push("History");
+        document.getElementById("uncategorized").checked && selectedCategories.push("Uncategorized");
+
+        if (selectedCategories.length === 0) {
+            alert("Please select at least one category.");
+            return;
+        }
+
+        document.getElementById("categorySelection").style.display = "none";
+        document.getElementById("gameContainer").style.display = "flex";
+        loadQuestions();
+    }
+    
+    function startQuestion() {
+        resetTimer();
+        let newQuestionIndex;
+        do {
+            newQuestionIndex = Math.floor(Math.random() * questions.length);
+        } while (newQuestionIndex === currentQuestionIndex);
+
+        currentQuestionIndex = newQuestionIndex;
+        currentWordIndex = 0;
+        document.getElementById("question").innerText = "";  
+        document.getElementById("answerInput");
+        document.getElementById("submitAnswer");
+        document.getElementById("buzzButton").disabled = false;
+        buzzedWord = "";
+        buzzedTimeLeft = 30;
+        clearInterval(intervalId);
+        intervalId = setInterval(revealNextWord, 300);
+        timerId = setInterval(countDown, 1000);
+    }
+
+    function revealNextWord() {
+        const words = questions[currentQuestionIndex].question.split(' ');
+        if (currentWordIndex < words.length) {
+            document.getElementById("question").innerText += ' ' + words[currentWordIndex];
+            currentWordIndex++;
+        } else {
+            clearInterval(intervalId);
+        }
+    }
+
+    //  function for both button click and space key 
+function buzz() {
+    clearInterval(intervalId);
+    clearInterval(timerId);
+    buzzedWord = questions[currentQuestionIndex].question.split(' ')[currentWordIndex - 1];
+    buzzedTimeLeft = timeLeft;
+    document.getElementById("buzzButton").disabled = true;
+    document.getElementById("answerInput").style.display = 'inline';
+    document.getElementById("submitAnswer").style.display = 'inline';
+}
+
+// button click event
+document.getElementById("buzzButton").onclick = function() {
+    buzz();  
+};
+
+
+
+    document.getElementById("submitAnswer").onclick = function() {
+        checkAnswer();
+    };
+
+    function checkAnswer() {
+        const userAnswer = document.getElementById("answerInput").value.trim().toLowerCase();
+        const correctAnswer = questions[currentQuestionIndex].answer.toLowerCase();
+
+        if (userAnswer === correctAnswer) {
+            score++;
+            alert("Correct!");
+        } else {
+            alert("The answer was: " + correctAnswer);
+        }
+
+        logAttempt(userAnswer === correctAnswer, userAnswer);
+      //  document.getElementById("score").innerText = "Score: " + score;
+        document.getElementById("answerInput").value = '';
+        startQuestion();
+    }
+
+    function logAttempt(isCorrect, userAnswer) {
+        const logEntry = {
+            question: questions[currentQuestionIndex].question,
+            correctAnswer: questions[currentQuestionIndex].answer,
+            userAnswer,
+            result: isCorrect ? "Correct" : "Incorrect",
+            buzzedWord,
+            buzzedTimeLeft,
+            timestamp: new Date().toLocaleString()
+        };
+
+        const log = JSON.parse(localStorage.getItem("quizLog") || "[]");
+        log.push(logEntry);
+        localStorage.setItem("quizLog", JSON.stringify(log));
+    }
+
+    function viewLog() {
+        const log = JSON.parse(localStorage.getItem("quizLog") || "[]");
+        const logContent = document.getElementById("logContent");
+        logContent.innerHTML = log.length
+            ? log.map(entry => `<p><b>Question:</b> ${entry.question}<br><b>Your Answer:</b> ${entry.userAnswer}<br><b>Result:</b> ${entry.result}<br><b>Correct Answer:</b> ${entry.correctAnswer}<br><b>Buzzed Word:</b> ${entry.buzzedWord}<br><b>Time Left on Buzz:</b> ${entry.buzzedTimeLeft} seconds</p><hr>`).join('')
+            : "<p>No attempts logged yet.</p>";
+
+        document.getElementById("logModal").style.display = "flex";
+    }
+
+    function closeLog() {
+        document.getElementById("logModal").style.display = "none";
+    }
+
+    function resetTimer() {
+        clearInterval(timerId);
+        timeLeft = 30;
+        document.getElementById("timeLeft").innerText = timeLeft;
+    }
+
+    function countDown() {
+        if (timeLeft > 0) {
+            timeLeft--;
+            document.getElementById("timeLeft").innerText = timeLeft;
+        } else {
+            clearInterval(timerId);
+            checkAnswer();
+        }
+    }
+
+    document.getElementById("modeToggleButton").onclick = function() {
+        document.body.classList.toggle("dark-mode");
+    };
+
+//  event listener for spacebar 
+document.addEventListener("keydown", function(event) {
+    if (event.key === " " && !document.getElementById("buzzButton").disabled) {
+        buzz();
+    }
+});
+
+</script>
     <footer style="position: fixed; bottom: 10px; width: 100%; text-align: center; font-size: 12px; color: #777;">
-        sameelaughs
+        sameelaughs ©!!!! see <a href="https://docs.google.com/document/d/1-WN_S2N4p3Hbv3-IzPjr9G20nRHazstUhIyjktkLAjU/edit?tab=t.0" target="_blank">this doc</a> for documentation!
     </footer>
 
-    <script src="script.js"></script>
 </body>
 </html>
