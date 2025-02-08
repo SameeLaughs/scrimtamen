@@ -16,6 +16,20 @@
             align-items: center;
             height: 100vh;
         }
+#logContent {
+    color: inherit; 
+}
+
+ #logContent p {
+    color: black;  
+}
+
+        
+        #what {
+    font-size: 10px;
+    color: #777;
+}
+
 
         .container {
             display: flex;
@@ -32,7 +46,7 @@
         }
         h1 {
             font-size: 36px;
-            margin-top: 20px;
+            margin-top: 10px;
         }
         #timer, #score {
             font-size: 18px;
@@ -50,9 +64,11 @@
         button {
             padding: 12px 20px;
             font-size: 16px;
+            border: 2px solid black;
             cursor: pointer;
             border: none;
             border-radius: 8px;
+            
         }
 
         #submitAnswer{
@@ -63,6 +79,17 @@
             background-color: #4caf50;
             color: white;
         }
+        
+        #buttonContainer {
+    position: absolute;
+    top: 60px; 
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+
 
         #answerInput {
             padding: 10px;
@@ -100,34 +127,59 @@
             max-width: 500px;
             text-align: center;
         }
+        #viewLogButton {
+                            margin: ;: 10px;
+
+                        border: 2px solid black;
+
+        }
+        #clearLogButton {
+            
+                        border: 2px solid black;
+                        
+
+        }
         #modeToggleButton {
+            border: 2px solid black;
             padding: 8px 16px;
             background-color: #6200ea;
             color: white;
-            border-radius: 8px;
             cursor: pointer;
             position: absolute;
+            border: 2px solid black;
             top: 20px;
             right: 20px;
-            border: none;
+
+
         }
     </style>
 </head>
 <body>
 
     <button id="modeToggleButton">Toggle Mode</button>
+    <div id="buttonContainer">
+    <button id="viewLogButton" onclick="viewLog()">View Log</button>
+    <button id="clearLogButton">Clear Log</button>
+</div>
+
     <div class="container" id="gameContainer" style="display:none;">
         <h1>scrimantem</h1>
-        <p>Advancd Certamen Questions</p>
+
+        <p>Advanced Certamen Questions</p>
+                <p id= "what">    see <a href="https://docs.google.com/document/d/1-WN_S2N4p3Hbv3-IzPjr9G20nRHazstUhIyjktkLAjU/edit?tab=t.0" target="_blank">this doc</a> for documentation!
+</p>
         <div id="timer">Time Left: <span id="timeLeft">30</span> seconds</div>
         <div id="question"></div>
         <button id="buzzButton">Buzz!</button>
         <div id="correctAnswerDisplay"></div>
         <input type="text" id="answerInput" placeholder="Your answer..." />
         <button id="submitAnswer">Submit Answer</button>
-    <!--    <div id="score">Score: 0</div> -->
+    <!--    <div id="score">Score: 0</div> 
         <button id="viewLogButton" onclick="viewLog()">View Log</button>
-        <button id="clearLogButton">Clear Log</button>
+        <button id="clearLogButton">Clear Log</button> -->
+    <span id="speedValue">300ms</span>
+    <input type="range" id="speedSlider" min="100" max="1000" value="300" step="50">
+
     </div>
 
 <!-- Category Selection Modal -->
@@ -187,6 +239,11 @@
         document.getElementById("question").innerText = "There was an issue loading the questions.";
     }
 }
+// slider for interval of speed
+document.getElementById("speedSlider").addEventListener("input", function() {
+    document.getElementById("speedValue").innerText = this.value + "ms";
+});
+
 
 
     function startGame() {
@@ -223,7 +280,7 @@
         buzzedWord = "";
         buzzedTimeLeft = 30;
         clearInterval(intervalId);
-        intervalId = setInterval(revealNextWord, 300);
+    intervalId = setInterval(revealNextWord, document.getElementById("speedSlider").value); // changed from 300 to slider
         timerId = setInterval(countDown, 1000);
     }
 
@@ -275,6 +332,13 @@ function checkAnswer() {
 
     correctAnswerDisplay.innerText = "Answer: " + correctAnswer;
     correctAnswerDisplay.style.color = "black"; // nvm
+    
+        if (document.body.classList.contains("dark-mode")) {
+        correctAnswerDisplay.style.color = "yellow";
+    } else {
+        correctAnswerDisplay.style.color = "black";
+    }
+
 
     logAttempt(userAnswer === correctAnswer.toLowerCase(), userAnswer);
 
@@ -349,11 +413,12 @@ document.addEventListener("keydown", function(event) {
         buzz();
     }
 });
-
 </script>
-    <footer style="position: fixed; bottom: 10px; width: 100%; text-align: center; font-size: 12px; color: #777;">
-        sameelaughs !!! see <a href="https://docs.google.com/document/d/1-WN_S2N4p3Hbv3-IzPjr9G20nRHazstUhIyjktkLAjU/edit?tab=t.0" target="_blank">this doc</a> for documentation!
-    </footer>
+<!-- <footer style="position: fixed; top: 0; left: 0; margin: 10px; text-align: left; font-size: 12px; color: #777;">
+    sameelaughs !!! see <a href="https://docs.google.com/document/d/1-WN_S2N4p3Hbv3-IzPjr9G20nRHazstUhIyjktkLAjU/edit?tab=t.0" target="_blank">this doc</a> for documentation!
+</footer> -->
+
+
 
 </body>
 </html>
