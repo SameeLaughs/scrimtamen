@@ -122,6 +122,7 @@
         <div id="timer">Time Left: <span id="timeLeft">30</span> seconds</div>
         <div id="question"></div>
         <button id="buzzButton">Buzz!</button>
+        <div id="correctAnswerDisplay"></div>
         <input type="text" id="answerInput" placeholder="Your answer..." />
         <button id="submitAnswer">Submit Answer</button>
     <!--    <div id="score">Score: 0</div> -->
@@ -267,22 +268,30 @@ document.getElementById("clearLogButton").addEventListener("click", clearLog);
         checkAnswer();
     };
 
-    function checkAnswer() {
-        const userAnswer = document.getElementById("answerInput").value.trim().toLowerCase();
-        const correctAnswer = questions[currentQuestionIndex].answer.toLowerCase();
+function checkAnswer() {
+    const userAnswer = document.getElementById("answerInput").value.trim().toLowerCase();
+    const correctAnswer = questions[currentQuestionIndex].answer;
+    const correctAnswerDisplay = document.getElementById("correctAnswerDisplay");
 
-        if (userAnswer === correctAnswer) {
-            score++;
-            alert("Correct!");
-        } else {
-            alert("The answer was: " + correctAnswer);
-        }
+    correctAnswerDisplay.innerText = "Answer: " + correctAnswer;
+    correctAnswerDisplay.style.color = "black"; // nvm
 
-        logAttempt(userAnswer === correctAnswer, userAnswer);
-      //  document.getElementById("score").innerText = "Score: " + score;
-        document.getElementById("answerInput").value = '';
-        startQuestion();
-    }
+    logAttempt(userAnswer === correctAnswer.toLowerCase(), userAnswer);
+
+    document.getElementById("submitAnswer").innerText = "Next Question";
+    document.getElementById("submitAnswer").onclick = startNextQuestion;
+}
+
+function startNextQuestion() {
+    document.getElementById("correctAnswerDisplay").innerText = ""; 
+    document.getElementById("answerInput").value = '';
+    
+    document.getElementById("submitAnswer").innerText = "Submit Answer";
+    document.getElementById("submitAnswer").onclick = checkAnswer;
+
+    startQuestion();
+}
+
 
     function logAttempt(isCorrect, userAnswer) {
         const logEntry = {
@@ -304,7 +313,7 @@ document.getElementById("clearLogButton").addEventListener("click", clearLog);
         const log = JSON.parse(localStorage.getItem("quizLog") || "[]");
         const logContent = document.getElementById("logContent");
         logContent.innerHTML = log.length
-            ? log.map(entry => `<p><b>Question:</b> ${entry.question}<br><b>Your Answer:</b> ${entry.userAnswer}<br><b>Result:</b> ${entry.result}<br><b>Correct Answer:</b> ${entry.correctAnswer}<br><b>Buzzed Word:</b> ${entry.buzzedWord}<br><b>Time Left on Buzz:</b> ${entry.buzzedTimeLeft} seconds</p><hr>`).join('')
+            ? log.map(entry => `<p><b>Question:</b> ${entry.question}<br><b>Your Answer:</b> ${entry.userAnswer}<br><b>Result:</b> ${entry.result}<br><b> Answer:</b> ${entry.correctAnswer}<br><b>Buzzed Word:</b> ${entry.buzzedWord}<br><b>Time Left on Buzz:</b> ${entry.buzzedTimeLeft} seconds</p><hr>`).join('')
             : "<p>No attempts logged yet.</p>";
 
         document.getElementById("logModal").style.display = "flex";
