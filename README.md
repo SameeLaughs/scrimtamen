@@ -1,7 +1,4 @@
 # scrimtamen
   
-_Currently Uploaded Sets (all advanced)_
-- AMSA 2011
-- AMSA 2012
-More sets will be added soon!
- 
+https://docs.google.com/document/d/1-WN_S2N4p3Hbv3-IzPjr9G20nRHazstUhIyjktkLAjU/edit?usp=sharing
+
