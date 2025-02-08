@@ -1,11 +1,226 @@
 [
+      {
+    "category": "Literature",
+    "question": "What man, a painter and a poet from Brundisium, wrote twelve tragedies on mythological subjects?",
+    "answer": "MARCUS PACUVIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which of Pacuvius’ tragedies deals with the death of Odysseus at the hands of his son Telegonus?",
+    "answer": "NIPTRA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What is the name of Pacuvius’ praetexta which celebrates the Roman victory at Pydna in 168 BC?",
+    "answer": "PAULLUS"
+  },
+  {
+    "category": "Language",
+    "question": "For the latin verb at the root of corridor, give the third person singular, pluperfect active subjunctive.",
+    "answer": "CUCURISSET"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Change “cucurisset” to the passive voice. ",
+    "answer": "CURSUS ESSET"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Keeping all else the same, supply the future imperative for the verb “curro”. ",
+    "answer": "CURRITOR"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "About which of the emperors of 69 AD did Tacitus write “omnium concensus capax imperii nisi imperasset” because he was incapable of maintaining the empire at such an old age? ",
+    "answer": "SULPICIUS GALBA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What freedman brought Galba the news of his appointment by the Senate? ",
+    "answer": "ICELUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who did Galba make the mistake of placing in the command of the post which Verginius Rufus was holding in Upper Germany?",
+    "answer": " HORDEONIUS FLACCUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who becomes a lion, a snake, a leopard, and a boar in his unsuccessful attempt to escape the clutches of Menelaus?",
+    "answer": " PROTEUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "How had Menelaus succeeded in hiding from Proteus before capturing him?",
+    "answer": "DISGUISED AS A SEAL AND HID AMONG HIS FLOCK"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What daughter of Proteus had revealed to Menelaus the secret to capturing her father and soliciting his advice? ",
+    "answer": "EIDOTHEIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What is the meaning of the correlative pair cum…tum?",
+    "answer": "BOTH…AND / NOT ONLY…BUT ALSO / WHEN…THEN"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What is the meaning of the correlative pair sive…sive? ",
+    "answer": "WHETHER…OR"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What is the meaning of the correlative pair quā…quā?",
+    "answer": "ON THE ONE HAND…ON THE OTHER HAND"
+  },
+  {
+    "category": "Language",
+    "question": "The phrases “quo mihi fortunam” and “unde mihi lapidem” are two poetic examples of what use of the dative case? ",
+    "answer": "DATIVE OF REFERENCE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What use of the dative case can be found in the following sentence? Donum tibi extorqueri videtur.",
+    "answer": " DATIVE OF SEPARATION"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "At your next stop he informs you that you are at the site where Marcus Aurelius died. In what modern city are you standing now?",
+    "answer": " VIENNA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "At your final stop your guide informs you that you are in the same location as Septimius Severus where are you in now?",
+    "answer": " LYONS"
+  },
+  {
+    "category": "Literature",
+    "question": "What silver age poet in the opening lines of his work declares his disgust at the widespread moral corruption which has compelled him to write satire? ",
+    "answer": "JUVENAL"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Into how many books are Juvenal’s sixteen satires divided? ",
+    "answer": "FIVE"
+  },
+  {
+    "category": "Literature",
+    "question": "Which of Juvenal’s satires uses his friend Umbricius’ flight from Rome as a means to declare the city too dangerous for honest men?",
+    "answer": " THIRD"
+  },
+  {
+    "category": "History",
+    "question": "What son of Apollo and Chione was the second musician to win the prize awarded at Delphi?",
+    "answer": "PHILAMMON"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Philammon was born on the same day as his half-brother. Who was this son of Hermes and Chione?",
+    "answer": "AUTOLYCUS"
+  },
+  {
+    "category": "Literature",
+    "question": "What son of Philammon was the third poet to win the prize awarded at Delphi? ",
+    "answer": "THAMYRIS"
+  },
+  {
+    "category": "Language",
+    "question": "Give the Latin and the English for the abbreviation p.r.n. ",
+    "answer": "PRO RE NATA – AS THE NEED ARISES"
+  },
+  {
+    "category": "Language",
+    "question": "Give the Latin and English for the abbreviation ob. ",
+    "answer": "OBIIT – HE DIED"
+  },
+  {
+    "category": "Language",
+    "question": "Give the Latin and English for the abbreviation rx. ",
+    "answer": "RECIPE - TAKE "
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who was impregnated when Poseidon took the form of the sea water which she was accustomed to pouring in her lap daily?",
+    "answer": " IPHIMEDEIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What two giants were produced by this union? ",
+    "answer": "OTUS & EPHIALTES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What sister did the Aloadae venture to Naxos to save from pirates? ",
+    "answer": "PANCRATIS"
+  },
+  {
+    "category": "History",
+    "question": "At what battle in 283 BC were the combined Gallic and Etruscan forces defeated by a Roman army?",
+    "answer": "LAKE VADIMO"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What consul was victorious at this batle? ",
+    "answer": "P. CORNELIUS DOLABELLA"
+  },
+  {
+    "category": "History",
+    "question": "What Senonian chieftan who had triumphed over the Romans in a previous battle was defeated at Lake Vadimo? ",
+    "answer": "BRITOMARIS"
+  },
+  {
+    "category": "Language",
+    "question": "What Latin noun with what meaning lies at the roof of the English verb flail? ",
+    "answer": "FLAGRUM - WHIP"
+  },
+  {
+    "category": "Language",
+    "question": "What Latin verb with what meaning lies at the root of the English adjective feeble?",
+    "answer": "FLEO – TO WEAP"
+  },
+  {
+    "category": "Language",
+    "question": "What Latin verb with what meaning lies at the root of the English noun fossil?",
+    "answer": "FODIO – TO DIG UP"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "A few days after Adherbal’s victory at Drepana, what Carthaginian admiral succeeded in herding",
+    "answer": "another division of the Roman fleet into a trap at Cape Passaro? CARTHALO"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What disaster, envisioned by Carthalo, befell Pullus’ fleet at Cape Passaro?",
+    "answer": "4"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What man during his stint as Nerva’s curator aquarum composed a comprehensive treatment of the",
+    "answer": "problems with Rome’s water supply? FRONTINUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What is the title of Frontinus’ four book compilation of military strategies? ",
+    "answer": "STATEGAMATA"
+  },
+  {
+    "category": "Literature",
+    "question": "What later author wrote the Epitome Rei Militaris which he modeled on the work of Frontinus?",
+    "answer": "VEGETIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What son of Panopeus, who won the boxing match at the funeral games of Patroclus, was the",
+    "answer": "amor."
+  },
     {
         "category": "Myth",
-        "question": "What son of Aethlius and Calyce, known as the 'sleeping beauty' of Greek mythology, was prominently featured on Roman sarcophagi?",
+        "question": "What son of Aethlius and Calyce, known as the 'sleeping beauty' of Greek myth, was prominently featured on Roman sarcophagi?",
         "answer": "Endymion"
     },
     {
-        "category": "Myth", 
+        "category": "Myth",
         "question": "What goddess fell in love with Endymion and bore him fifty sons?",
         "answer": "Selene"
     },
@@ -200,32 +415,32 @@
         "answer": "Annales/Annals"
     },
     {
-        "category": "Mythology",
+        "category": "myth",
         "question": "What Greek god had the epithet Loxias?",
         "answer": "Apollo"
     },
     {
-        "category": "Mythology",
+        "category": "myth",
         "question": "What Greek god had the epithet Bromios?",
         "answer": "Dionysus"
     },
     {
-        "category": "Mythology",
+        "category": "myth",
         "question": "What Greek god had the epithet Enyalius?",
         "answer": "Ares"
     },
     {
-        "category": "Mythology",
+        "category": "myth",
         "question": "What hero, born Alcides, was renamed in an attempt to appease his stepmother's wrath?",
         "answer": "Heracles"
     },
     {
-        "category": "Mythology",
+        "category": "myth",
         "question": "What hero was born with the name Ligyron?",
         "answer": "Achilles"
     },
     {
-        "category": "Mythology",
+        "category": "myth",
         "question": "What hero was deified with the name Indiges?",
         "answer": "Aeneas"
     },
@@ -275,17 +490,17 @@
         "answer": "If you should become the best Certamen player, everyone would love you."
     },
     {
-        "category": "Mythology",
+        "category": "myth",
         "question": "What tribe's capital city was Themiscyra?",
         "answer": "The Amazons"
     },
     {
-        "category": "Mythology",
+        "category": "myth",
         "question": "What tribe was ruled by the boxing king Amycus?",
         "answer": "The Bebryces"
     },
     {
-        "category": "Mythology",
+        "category": "myth",
         "question": "What tribe clashed their spears and swords against their shields to hide the infant Zeus' existence?",
         "answer": "The Curetes or Corybantes"
     },
@@ -345,27 +560,27 @@
         "answer": "Tmesis"
     },
     {
-        "category": "Mythology",
+        "category": "myth",
         "question": "Name any six of the Seven Against Thebes according to the traditional account of Aeschylus.",
         "answer": "Adrastus, Amphiaraus, Capaneus, Hippomedon, Parthenopaeus, Polyneices, Tydeus"
     },
     {
-        "category": "Mythology",
+        "category": "myth",
         "question": "Name the two allies of the Seven who also perished in the battle.",
         "answer": "Eteoclus (not Eteocles) and Mecisteus"
     },
     {
-        "category": "Mythology",
+        "category": "myth",
         "question": "Why did the first brother want the most powerful wand?",
         "answer": "To kill his enemy"
     },
     {
-        "category": "Mythology",
+        "category": "myth",
         "question": "What killed the second brother?",
         "answer": "Grief (of his dead girlfriend)"
     },
     {
-        "category": "Mythology",
+        "category": "myth",
         "question": "What was unusual about the third brother's cloak?",
         "answer": "He could not be seen under it"
     },
@@ -430,17 +645,17 @@
     "answer": "Cave putes durius / Ne putaveris durius"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Who was the son of the goddess of love and the Argonaut Butes?",
     "answer": "Eryx"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Who killed Eryx in a wrestling match?",
     "answer": "Heracles"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "What later hero worshipped Eryx as his ancestor?",
     "answer": "Aeneas"
 },
@@ -460,17 +675,17 @@
     "answer": "Quintus Lucretius Ofella"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Who, the eldest son of Heracles and Deineira, married his father's concubine Iole and took revenge against Eurystheus by capturing and/or killing him?",
     "answer": "Hyllus"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Who killed Hyllus in single combat during the expedition of the Heraclids?",
     "answer": "Echemus"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Who was the son of Hyllus by Iole?",
     "answer": "Cleodaeus"
 },
@@ -520,17 +735,17 @@
     "answer": "To achieve (be beneficial, etc.) rather than to be seen"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "What Titaness married Hyperion and gave birth to Helius, Eos, and Selene?",
     "answer": "Theia / Euryphaessa"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Give an alternate name for this Titaness.",
     "answer": "Theia / Euryphaessa"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Other than wife, what other relation did Theia have to Hyperion?",
     "answer": "Sister"
 },
@@ -655,17 +870,17 @@
     "answer": "Within the works of Vergil"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "What mythological character taught us to never refuse a wedding invitation?",
     "answer": "Chelone"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Into what was Chelone transformed for ditching a wedding?",
     "answer": "Tortoise / Turtle"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Whose wedding was it?",
     "answer": "Zeus and Hera's"
 },
@@ -730,17 +945,17 @@
     "answer": "Venus"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Who was the only ally of Perseus turned to stone during confrontation over Andromeda?",
     "answer": "Aconteus"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Who was turned to stone after mocking the love of a Cypriot youth and showing no emotion at his suicide?",
     "answer": "Anaxerete"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Who was turned to stone when he proved his untrustworthiness when he told a disguised Hermes about Hermes's theft of Apollo's cattle?",
     "answer": "Battus"
 },
@@ -770,17 +985,22 @@
     "answer": "Si non ad scholam venissemus, linguam Latinam non didicissemus."
 },
 {
-    "category": "Mythology",
+    "category": "Language",
+    "question": "What conditional clause is present in this sentence?",
+    "answer": "Negative past contrary to fact"
+},
+{
+    "category": "myth",
     "question": "What shepherd of Priam exposed the infant Paris?",
     "answer": "Agelaus"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "What son of Priam by Arisbe predicted that Paris would be the ruin of Troy?",
     "answer": "Aesacus"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Into what was Aesacus transformed?",
     "answer": "A diver bird"
 },
@@ -851,21 +1071,26 @@
 },
 {
     "category": "Language",
+    "question": "Why is this phrase ironic?",
+    "answer": "Because the Greek calendar did not have a Kalends."
+},
+{
+    "category": "Language",
     "question": "What English phrase, involving airborne animals, is an equivalent to ad Kalendas Graecas?",
     "answer": "When pigs fly"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Pandora was given a box that she was instructed to never open. What other mythological woman of Bisaltian origins reversed the role when she gifted somebody else with a box that came with an ultimatum?",
     "answer": "Phyllis"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "According to some versions, what brother of Demophon was Phyllis' husband, the recipient of the box?",
     "answer": "Acamas"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "After Acamas married Phyllis, he sailed away, but promised to return. Phyllis gave him the box as he departed, instructing him to only open it if he decided that he wasn't going to come back after all. Well, as mythological men were wont to do, Acamas forgot all about his wife and settled happily on Cyprus. After some time, he opened the box and went insane upon seeing its contents. He tried to escape the horrors, but as he was galloping away on his horse, he met a tragic death. What exactly happened to him?",
     "answer": "He fell on his own sword"
 },
@@ -915,32 +1140,32 @@
     "answer": "Nose"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "What Tegean king bought Arsinoe as a slave and succeeded Echemus on the throne?",
     "answer": "Agapenor"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Agapenor was a suitor of which famous mythological woman?",
     "answer": "Helen"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "What city did he found on the island of Cyprus?",
     "answer": "Paphos"
 },
 {
-    "category": "History",
+    "category": "Literature",
     "question": "What Latin historian participated with Ammianus Marcellinus in Julian's expedition of 363 A.D. against the Persians?",
     "answer": "Eutropius"
 },
 {
-    "category": "History",
+    "category": "Literature",
     "question": "Which of his works was a compendium of Roman history in 10 books?",
     "answer": "Breviarium Ab Urbe Condita"
 },
 {
-    "category": "History",
+    "category": "Literature",
     "question": "At the behest of which emperor, who wanted 'sparknotes' for the long Roman histories, did Eutropius write the Breviarium Ab Urbe Condita?",
     "answer": "Valens"
 },
@@ -960,17 +1185,17 @@
     "answer": "Suevissemus"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "What Greek god traveled to a foreign land where, if the writings of Philostratus and Pseudo-Hyginus are to be believed, he would have encountered the Asian deity Durga? He was accompanied, as usual, by his frenzied Bacchants as he attempted to explore India and subject its people to his worship.",
     "answer": "Dionysus"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "What elderly advisor of Dionysus also was part of his entourage?",
     "answer": "Silenus"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Who were Dionysus's caretakers on Mt. Nysa? Today, there is a racing horse with the same name.",
     "answer": "The Nysaean Nymphs"
 },
@@ -1031,17 +1256,17 @@
     "answer": "Boudica"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "What god, often depicted as a serpent or dragon, was an opponent of Zeus in the Titanomachy?",
     "answer": "Typhon"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Where did Typhon hide after his defeat by Zeus?",
     "answer": "Mount Etna"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "What monstrous offspring did Typhon father with Echidna?",
     "answer": "Cerberus"
 },
@@ -1061,17 +1286,17 @@
     "answer": "Flavius Gratianus Augustus"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "What god was cared for by the tribe of the Sintians after falling for nine days from Olympus all the way to Lemnos?",
     "answer": "Hephaestus"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Hephaestus then proceeded to bind Hera with fetters to a golden throne to humiliate her in retribution for her unsavory behavior towards him. Who convinced Hephaestus to free her?",
     "answer": "Dionysus"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "On another occasion, Hephaestus caught his wife Aphrodite and her lover Ares in an invisible net as they slept together. In this scenario, who convinced Hephaestus to let the shamed pair go?",
     "answer": "Poseidon"
 },
@@ -1106,17 +1331,17 @@
     "answer": "Does not exist"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Odysseus originally went to the court of Tyndareus in Sparta in order to court his infamous daughter Helen, but instead fell in love with whom, the daughter of Icarius?",
     "answer": "Penelope"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "What did Icarius do after Penelope left him decisively for Odysseus, veiling her face in order to show her loyalty to her new husband?",
     "answer": "He erected a statue of modesty."
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "What was the name of Icarius' other daughter?",
     "answer": "Iphthime"
 },
@@ -1181,21 +1406,3425 @@
     "answer": "Specification"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "What city was the capital of the Amazonian empire?",
     "answer": "Themiscyra"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Who was the taskmaster of Bellerophon, who sent him on various missions with the hopes that he would fail?",
     "answer": "Iobates"
 },
 {
-    "category": "Mythology",
+    "category": "myth",
     "question": "Name one war-like tribe, which Bellerophon was sent to conquer.",
     "answer": "The Amazons or the Solymi"
-}
+},
+{
+    "category": "Uncategorized",
+    "question": "If you were to see people touching a bronze statue’s shoes, the building Sever Hall, and the color",
+    "answer": "HARVARD (UNIVERSITY)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What man, whose shoe people touch, is the mascot of Harvard?",
+    "answer": "JOHN HARVARD"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "This tournament’s opening meeting at Sever Hall featured a wonderful talk by what Professor?",
+    "answer": "Moderator should say: “Subsequent questions will count for points. Good luck and have fun!”"
+  },
+  {
+    "category": "Literature",
+    "question": "What author, whose “maiden’s song” for Juno won honor for the collēgium scrībārum histriōnumque,",
+    "answer": "LIVIUS ANDRONICUS"
+  },
+  {
+    "category": "History",
+    "question": "Give the Latin term for Livius’ position in Rome as a teacher of Latin and Greek.",
+    "answer": "GRAMMATICUS"
+  },
+  {
+    "category": "History",
+    "question": "In whose entourage was Livius brought to Rome following the end of the war between Rome and",
+    "answer": "LIVIUS SALINATOR(’S)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who recounted how he hid among seals with his men to capture Proteus, the sea god who told him about",
+    "answer": "MENELAUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What daughter of Proteus helped Menelaus capture him?",
+    "answer": "EIDOTHEA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Proteus lived on Pharos, an island off the coast of what modern day country?",
+    "answer": "EGYPT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "A future participle agreeing with the subject, a relative clause after a verb like mittō, an accusative",
+    "answer": "PURPOSE"
+  },
+  {
+    "category": "Language",
+    "question": "Using a relative clause of purpose, say in Latin “He sent an ambassador to look at the enemies’",
+    "answer": "LĒGĀTUM MĪSIT QUĪ HOSTIUM CASTRA SPECTĀRET"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Now translate this sentence adapted from Livy, which uses a surprising tense for an ut purpose",
+    "answer": "SOMETHING IN PEACE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "At what Thracian city, named after the husband of Vibia Sabina, did a group of dispossessed Goths in",
+    "answer": "(H)ADRIANOPLE / (H)ADRIANOPOLIS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What emperor defeated Maximinus Daza, sometimes called Daia, at Adrianople in 313 A.D., only to",
+    "answer": "(VALERIUS LICINIANUS) LICINIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The Goths had initially fled from their homes due to the raids of what tribe?",
+    "answer": "HUNS"
+  },
+  {
+    "category": "Language",
+    "question": "What Latin word, in various forms, fills in the blanks in these phrases: “caelī ēnārrant [blank] Deī”;",
+    "answer": "GLŌRIA / GLŌRIAM"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What Catholic religious order has the motto “ad maiōrem Deī glōriam”?",
+    "answer": "JESUIT(S) // SOCIETY OF JESUS"
+  },
+  {
+    "category": "Language",
+    "question": "Give the four-word Latin name of the hymn whose name means “glory to God in the highest.”",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Caesar’s phrase “cīvitās maximam habet opīniōnem virtūtis” — along with “vacātiō labōrum,”",
+    "answer": "OBJECTIVE (GENITIVE)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What use of the genitive is found in the phrases “ubinam gentium sumus?” and “parum ōtī”?",
+    "answer": "PARTITIVE (GENITIVE) // (GENITIVE) OF THE WHOLE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What use of the genitive is found in Horace’s lines “magnī formīca labōris ōre trahit",
+    "answer": "(GENITIVE OF) {DESCRIPTION / QUALITY}"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What city, whose rivers Asterion, Cephissus, and Inachus were periodically dry for not choosing",
+    "answer": "ARGOS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What famous Argive city did Perseus found after trading Argos for Tiryns?",
+    "answer": "MYCENAE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What descendant of Io, fleeing his brother, came from Egypt to claim his right to the Argive throne?",
+    "answer": "DANAUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "A foundation of stones called the statūmen and a nine-inch layer of concrete called the rūdus were both",
+    "answer": "ROAD(S) / VIA(E)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What was the final layer of the road, which was a six-inch bedding of fine concrete?",
+    "answer": "NUCLEUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What curbstones were used to set bounds on the road on both sides?",
+    "answer": "UMBŌNĒS"
+  },
+  {
+    "category": "Literature",
+    "question": "What author destroyed his signet ring and removed Nero from his will before his suicide, though he had",
+    "answer": "PETRONIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who is the protagonist of the Satyricōn, traveling with Ascyltos and Giton?",
+    "answer": "ENCOLPIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The devolution of the relationship between Petronius and Nero took place over only a few years. In",
+    "answer": "62 A.D."
+  },
+  {
+    "category": "History",
+    "question": "What conflict saw brothers nicknamed the “Thunderbolts of War” die near the Baetis River in the same",
+    "answer": "SECOND PUNIC WAR"
+  },
+  {
+    "category": "History",
+    "question": "What battle did these “Thunderbolts of War” — the Scipio brothers — win in Spain a year after the",
+    "answer": "DERTOSA / IBERA"
+  },
+  {
+    "category": "History",
+    "question": "In what year did Fabius Maximus Cunctator, the so-called “Shield of War,” recapture Tarentum?",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "History",
+    "question": "What people, who later lost a battle at Silva Malitiōsa, attended a festival of Neptune or Consus in a",
+    "answer": "SABINES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What was the capital city of the Sabines, the birthplace of Romulus’s successor?",
+    "answer": "CURES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What Sabine chief managed to seize the Capitoline citadel in 460 B.C., though he was quickly",
+    "answer": "(APPIUS) HERDONIUS"
+  },
+  {
+    "category": "Literature",
+    "question": "What Latin verb, with what meaning, is at the root of a word describing a pause in the middle of a poetic",
+    "answer": "CAEDŌ – TO CUT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What derivative of caedō is a tool used for carving material such as wood?",
+    "answer": "CHISEL"
+  },
+  {
+    "category": "Literature",
+    "question": "The pause in the middle of a foot is a caesura. In hexameter poetry, a pause between the fourth and",
+    "answer": "BŌS – COW and COLŌ – CULTIVATE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Of the words testis, virga, pollex, vīmen, and pollen, which is being described here? Index est quī",
+    "answer": "TESTIS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Of the words latex, virga, pollex, vīmen, and pollen, which two are most closely synonymous?",
+    "answer": "VIRGA and VĪMEN"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Of the words latex, pollex, discrīmen, and pollen, which is most synonymous with perīculum?",
+    "answer": "DISCRĪMEN"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Either by pretending to be a priestess of Hyperborean Artemis, or by rejuvenating her father-in-law",
+    "answer": "MEDEA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In some sources, Aeson is forced to kill himself by drinking the poisonous blood of what animal?",
+    "answer": "BULL"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Medea, out of jealousy, murdered what daughter of Creon after Jason said he would marry her?",
+    "answer": "GLAUCE / CREUSA"
+  },
+  {
+    "category": "Literature",
+    "question": "What poet, central to the pagans’ talks in Macrobius’s Sāturnālia, accidentally appealed to Christians by",
+    "answer": "(PUBLIUS) VERGIL(IUS MARO)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Vergil was born near what town, whose status as a victim of Augustus’s land confiscations is alluded",
+    "answer": "MANTUA"
+  },
+  {
+    "category": "Literature",
+    "question": "What poet makes an appearance in Poem 10 of the Eclogues, which puts the pastoral landscape in",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In Ovid’s Metamorphoses, the story of what river-goddess is told within the tale of Persephone, since",
+    "answer": "ARETHUSA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Arethusa’s story in the Metamorphoses is the culmination of a large series of nested narratives, since",
+    "answer": "PIERIDES // DAUGHTERS OF PIERUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Continuing this story-ception, the contest with the Pierides is narrated to Minerva by one of the",
+    "answer": "PYRENEUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Like Galba, what aged emperor gave the Praetorians only low pay and harsh discipline when Laetus and",
+    "answer": "PERTINAX"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What woman had worked alongside Laetus and Eclectus to kill Commodus?",
+    "answer": "MARCIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What rogue Praetorian Prefect had promised the soldiers that Galba would give them a donative,",
+    "answer": "(GAIUS) NYMPHIDIUS SABINUS"
+  },
+  {
+    "category": "Language",
+    "question": "What genre, whose first Roman practitioners actually wrote in Greek, was pioneered in Latin prose with",
+    "answer": "HISTORY"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What work by Tacitus is his only non-historical work and is structured as a Ciceronian dialogue?",
+    "answer": "DIALOGUS DĒ ŌRĀTŌRIBUS"
+  },
+  {
+    "category": "Literature",
+    "question": "What author, who got his name because one of his ancestors had been a painter, was the first Roman",
+    "answer": "(QUINTUS) FABIUS PICTOR"
+  },
+  {
+    "category": "Language",
+    "question": "Please translate this sentence from Latin into English: “Vergilius tam aeger est ut nōn possit librum",
+    "answer": "VERGIL IS SO ILL THAT HE CANNOT COMPLETE THE BOOK"
+  },
+  {
+    "category": "Language",
+    "question": "Now translate this sentence from Latin into English: “Lēgāmus opus Ovidiī in quō loquitur dē",
+    "answer": "TALKS ABOUT CHANGED FORMS"
+  },
+  {
+    "category": "Language",
+    "question": "Now translate this sentence from Latin into English: “Cum Nerōnem laudāvisset, Lūcānus tamen",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Language",
+    "question": "What one-syllable Latin conjunction, which is sometimes joined with modo in a proviso clause,",
+    "answer": "DUM"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What tense and mood would follow dum if it translated “for” in the sentence “The soldier was",
+    "answer": "IMPERFECT SUBJUNCTIVE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "When dum is followed by a past tense indicative, as in Vergil’s line “dulcēs exuviae, dum fāta",
+    "answer": "ROUND TWO"
+  },
+  {
+    "category": "History",
+    "question": "Listen carefully to the following passage about the First Punic War, which I will read twice, then answer",
+    "answer": "POENĪ"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Cūr cōnsul in Siciliam transīre nōn poterat?",
+    "answer": "NOT ACCEPT SOMETHING WITH CUM]"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Quid in rūmōre dictum est?",
+    "answer": "CŌNSULĪ BELLUM GERERE NŌN IAM {LICĒRE / LICET}"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Lines consisting entirely of spondees and a line addressing Titus Tatius in excessive alliteration show",
+    "answer": "ENNIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What sound did Ennius express with the onomatopoeia “taratantara”?",
+    "answer": "A TRUMPET BLARING"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Name either of the two comedies by Ennius, one about a wrestler and another about an innkeeper’s",
+    "answer": "CAUPUNCULA or PANCRATIASTĒS"
+  },
+  {
+    "category": "Language",
+    "question": "How many words in the following English sentence are derived from Latin? “While avidly watching",
+    "answer": "FIVE"
+  },
+  {
+    "category": "Language",
+    "question": "Provide the ultimate Latin root of two English words from the above sentence. For words formed",
+    "answer": "SEE BELOW"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Provide the rest.",
+    "answer": "OSPREYS – {AVIS / PRAEDA / ŌS / FRANGŌ}"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who installed reflective marble in his palace shortly after Lappius Maximus barely ended the revolt of",
+    "answer": "DOMITIAN"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What famous generalissimo was the father of Domitian’s wife?",
+    "answer": "(GNAEUS) DOMITIUS CORBULO"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Saturninus had tried to induce what German tribe to rebel and invade Roman borders?",
+    "answer": "CHATTI"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What woman remained with her father until he passed at Colonus, before returning to her home where",
+    "answer": "ANTIGONE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What fiancé of Antigone, a son of Creon, committed suicide upon learning of her death?",
+    "answer": "HAEMON"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Colonus was a suburb of what city, whose king secured the burial of the Seven Against Thebes?",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Literature",
+    "question": "The Halieutica is a minor work of what author, who gave voice to Briseis and other women, addressed",
+    "answer": "OVID"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "After being banished by Augustus, Ovid spent the last years of his life in what city, where he",
+    "answer": "TOMI(S)"
+  },
+  {
+    "category": "Myth",
+    "question": "What minor work of Ovid, named after a bird, wishes several hundred terrible mythological",
+    "answer": "ĪBIS"
+  },
+  {
+    "category": "Language",
+    "question": "Which two states are the only ones with one-word Latin mottos, one of which is a first-person verb",
+    "answer": "MAINE and NEW YORK"
+  },
+  {
+    "category": "Language",
+    "question": "There are three states with a four-word Latin motto. Identify one of them and give the motto.",
+    "answer": "ASPERA // VERMONT – STĒLLA QUĀRTA DECIMA FULGEAT"
+  },
+  {
+    "category": "Language",
+    "question": "There are two states with a six-word Latin motto. Identify one of them and give the motto.",
+    "answer": "MASSACHUSETTS – ĒNSE PETIT PLACIDAM SUB LĪBERTĀTE QUIĒTEM"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "According to Polybius, famous paintings were used as gaming tables after what city, which raised",
+    "answer": "CORINTH"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which Roman general, fresh off victories against Andriscus in 148 B.C., left Macedonia in order to",
+    "answer": "(QUINTUS CAECILIUS) METELLUS MACEDONICUS"
+  },
+  {
+    "category": "History",
+    "question": "According to Livy, what Corinthian noble fled to Italy early in Rome’s history, and had a son whose",
+    "answer": "DEMARATUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Nereus alone knew how to find what wedding gift of Gaea, a place defended by the serpent Ladon,",
+    "answer": "GARDEN OF THE HESPERIDES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Sometimes the location of the Hesperides was near what tribe that lived in the far, far north?",
+    "answer": "HYPERBOREANS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "On his way to the Hesperides, Heracles had killed what king of Egypt who tried sacrificing him,",
+    "answer": "BUSIRIS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What city acted as the eastern terminus of the via Egnātia, was split into two by a strait called",
+    "answer": "BYZANTIUM / CONSTANTINOPLE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Give the ancient name for the body of water that bordered Constantinople to the north.",
+    "answer": "PONTUS EUXĪNUS // EUXINE SEA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Give the ancient name for the Sea of Marmara, which bordered Constantinople to the south.",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Exiled for killing his half-brother Phocus, who went to Phthia, where he became king, welcomed men",
+    "answer": "PELEUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "After moving to Phthia, Peleus had to get purified again for killing his father-in-law, and sought out",
+    "answer": "ACASTUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Give the reasons for why either Phoenix or Patroclus came to Phthia.",
+    "answer": "or PATROCLUS HAD KILLED A BOY (CLITONYMUS OVER A DICE GAME)"
+  },
+  {
+    "category": "Literature",
+    "question": "According to a Roman poet, the existence of what objects removes any fear of death, accounts for free",
+    "answer": "ATOMS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In Lucretius’s work, what deity personifies Nature’s generative force and the Epicurean ideal of",
+    "answer": "VENUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What English word is often used to translate the idea of clīnāmen, as seen in the title of a book by",
+    "answer": "SWERVE"
+  },
+  {
+    "category": "Language",
+    "question": "Say in Latin: “If I had come home, I would have seen you.” For this sentence, both verbs should be",
+    "answer": "SĪ DOMUM VĒNISSEM, TĒ VĪDISSEM"
+  },
+  {
+    "category": "Language",
+    "question": "Now say in Latin: “Would I see you tomorrow if I were to come again?”",
+    "answer": "VIDEAMNE TĒ CRAS SĪ ITERUM VENIAM?"
+  },
+  {
+    "category": "Language",
+    "question": "Finally, say in Latin: “If only I were able to run for ten hours to see you!”",
+    "answer": "UTINAM POSSEM DECEM HORĀS CURRERE {UT TĒ VIDĒREM // AD TĒ VIDENDUM}"
+  },
+  {
+    "category": "History",
+    "question": "Members of what people swore an oath in a linen-covered tent before joining battle at Aquilonia in 293",
+    "answer": "SAMNITES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Though his epitaph claims that he took Samnium and subdued all Lucania, what early member of",
+    "answer": "(LUCIUS CORNELIUS SCIPIO SCAPULA) BARBATUS"
+  },
+  {
+    "category": "History",
+    "question": "In the middle of the Second Samnite War, Fabius Rullianus also broke Etruscan power at what lake",
+    "answer": "(LAKE) VADIMO"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What part of the body — on which a pecten might be employed to make it cōmptus, often in the hands",
+    "answer": "HAIR"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What celestial phenomenon is etymologically described as “hairy,” though it is related to a third",
+    "answer": "COMET"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "How would a person’s hair look if they are described with the phrase crīnibus passīs?",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What literary device is found in the phrases “ex oculīs fūgit ceu fūmus in aurās,” “eam agnōvī",
+    "answer": "SYNCHYSIS and PLEONASM"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Opposing speeches by Caesar and Cato the Younger frame the second half of what work, which details",
+    "answer": "(SALLUST’S) BELLUM CATILĪNAE // DĒ CATILĪNAE CONIŪRĀTIŌNE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What other work of Sallust, left unfinished at his death, was a history beginning at 78 BC?",
+    "answer": "HISTORIAE"
+  },
+  {
+    "category": "Language",
+    "question": "The first Latin historical monograph may have been a work by Coelius Antipater on what conflict,",
+    "answer": "SECOND PUNIC WAR"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Hecate’s appearance on earth was often accompanied by what animals — which the queen Hecuba",
+    "answer": "HELL-HOUND / DOG"
+  },
+  {
+    "category": "Myth",
+    "question": "The expression “a sop for Cerberus” stems from a scene in the Aeneid where what mythological",
+    "answer": "SIBYL (OF CUMAE) // DEIPHOBE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Hecuba’s transformation into a fiery-eyed dog happened because she murdered what king of the",
+    "answer": "POLYM(N)ESTOR"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Shortly before his death, who chose Rufinus as Eastern Praetorian Prefect and Stilicho as the Western",
+    "answer": "THEODOSIUS {I // THE GREAT}"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Before attempts at peace broke down, what man was chosen by Honorius to succeed Stilicho as",
+    "answer": "ALARIC"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What daughter of Arcadius held real power during much of the reign of Theodosius II, her brother?",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Language",
+    "question": "Translate into idiomatic Latin without using nōn or any such adverb: “Alexander’s soldiers said that",
+    "answer": "MĪLITĒS ALEXANDRĪ NEGĀVĒRUNT SĒ EUM SECŪTŪROS (ESSE)"
+  },
+  {
+    "category": "Language",
+    "question": "Now translate into good Latin: “Alexander said that the soldiers who were remaining would receive",
+    "answer": "ALEXANDER DĪXIT (EŌS) MĪLITĒS QUĪ (RĒ)MĀNĒRENT PRAEMIA ACCEPTŪRŌS (ESSE)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Now translate: “Hannibal thought that he ought to be praised a little less than Alexander and",
+    "answer": "ROUND THREE"
+  },
+  {
+    "category": "History",
+    "question": "In the Aeneid, who prays to a tearful Hercules before hurling his spear at Turnus, unaware that he would",
+    "answer": "PALLAS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What crime decorated Pallas’s sword-belt?",
+    "answer": "THE DANAIDS MURDERING THEIR HUSBANDS (ON THEIR WEDDING NIGHT)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Pallas had originally planned to fight what son of Mezentius?",
+    "answer": "LAUSUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Menedemus forcing himself into a life of torment, a man disguising himself as the titular eunuch, and",
+    "answer": "TERENCE // (PUBLIUS) TERENTIUS (AFER)"
+  },
+  {
+    "category": "Literature",
+    "question": "What about Terence’s biography suggested to critics that his plays were actually by Scipio",
+    "answer": "HE WAS A FREED SLAVE // HE WAS FROM CARTHAGE AND HAD TO LEARN LATIN"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "According to legend, Terence had to present his first comedy for approval to what other comic",
+    "answer": "CAECILIUS STATIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What meaning is shared by the following four words: sospes, incolumis, tūtus, salvus?",
+    "answer": "SAFE / UNHARMED"
+  },
+  {
+    "category": "Language",
+    "question": "From what Latin verb with what meaning do we get the word tūtus?",
+    "answer": "TUEOR – {WATCH (OVER) // PROTECT}"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What is the more standard past participle of tueor?",
+    "answer": "TUITUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The lēx Ovīnia gave holders of what office the duty of revising senatorial lists, though one of its most",
+    "answer": "CENSOR"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The censorial elections were typically held by what assembly, which allotted a total of 193 votes",
+    "answer": "COMITIA CENTURIĀTA"
+  },
+  {
+    "category": "Literature",
+    "question": "What dictator authored a law requiring one censor to be plebeian in 339 B.C., just two years before",
+    "answer": "(QUINTUS) PUBLILIUS PHILO"
+  },
+  {
+    "category": "Literature",
+    "question": "From what author do we get the quotes “pulvis et umbra sumus,” “sapere audē” “aurea mediocritās,”",
+    "answer": "HORACE // (QUINTUS) HORATIUS (FLACCUS)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What words complete the Horatian quote “quandōque bonus [blank]”?",
+    "answer": "DORMĪTAT HOMĒRUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What two-word phrase of Horace looks back to the good old days — those days being 42 B.C.,",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Plans for Roman borders along the Elbe and Vistula rivers had to be scuttled after what disaster, called",
+    "answer": "(BATTLE OF) TEUTOBURG FOREST // TEUTOBERGER WALD"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What blundering oaf of a general walked into this disastrous trap and gave his name to the disaster?",
+    "answer": "(PUBLIUS) QUINCTILIUS VARUS"
+  },
+  {
+    "category": "History",
+    "question": "Arminius, the warlord who engineered this stunning reverse for the Romans, was the head honcho",
+    "answer": "CHERUSCI"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who punished Glaucus the horsekeeper by having his mares devour him, Tyndareus for neglecting her",
+    "answer": "APHRODITE"
+  },
+  {
+    "category": "Myth",
+    "question": "Glaucus was the father by Eurynome of what mythological hero?",
+    "answer": "BELLEROPHON"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Whom did Aphrodite cause Helios to fall in love with as punishment, though her father Orchamus",
+    "answer": "LEUCOTHOE"
+  },
+  {
+    "category": "Language",
+    "question": "What Latin verb is at the ultimate root of “squat,” which initially referred to “forcing” down your body’s",
+    "answer": "AGŌ [PROMPT ON “CŌGŌ” BEFORE IT IS READ]"
+  },
+  {
+    "category": "Language",
+    "question": "What Latin word is at the ultimate root of “squad,” as well as “square”?",
+    "answer": "QUATTUOR"
+  },
+  {
+    "category": "Language",
+    "question": "From what Latin verb with what meaning do we get “squash?” The “s” comes from the prefix ex-,",
+    "answer": "QUATIŌ / QUATERE = (TO / I) SHAKE"
+  },
+  {
+    "category": "Language",
+    "question": "Translate the following sentence into alliterative Latin using a passive periphrastic: “Sextus must follow",
+    "answer": "SEXTŌ SEPTEM SOCIĪ SEQUENDĪ SUNT"
+  },
+  {
+    "category": "Language",
+    "question": "Translate the following sentence into alliterative Latin using a gerund: “We will be able to gain the",
+    "answer": "POTERIMUS PRAEMIŌ POTĪRĪ PUGNANDŌ"
+  },
+  {
+    "category": "Language",
+    "question": "Translate the following sentence into alliterative Latin using a gerund: “A desire to run quickly to",
+    "answer": "{CUPĪDŌ / CUPIDITĀS} CELERITER CORINTHUM CURRENDĪ CRASSUM CĒPIT"
+  },
+  {
+    "category": "Literature",
+    "question": "What figure in Latin literature, who “first captured” a “wretched” poet with her ocellī, may have had the",
+    "answer": "CYNTHIA"
+  },
+  {
+    "category": "Literature",
+    "question": "Propertius declared himself the Roman version of what author from Cyrene, whose Aetia also",
+    "answer": "CALLIMACHUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In poem sixteen of the Monobiblos, what type of object bewails its sorrowful fate at the hands of",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The words “Ollus Quiris lētō datus…” preceded what sort of event, which featured a special lectus,",
+    "answer": "FUNERAL (PROCESSION) // FŪNUS"
+  },
+  {
+    "category": "Language",
+    "question": "Give the Latin word for the act performed when a Roman died at home, where the eldest son bent",
+    "answer": "CONCLĀMĀTIŌ"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What was the aptly named sort of funeral performed for very young children?",
+    "answer": "FŪNUS ACERBUM"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "When she objected to her son’s divorce of Octavia, who was invited onto a boat set up to collapse, an act",
+    "answer": "AGRIPPINA THE YOUNGER"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Whom did Nero marry — though not for long — after divorcing Octavia, taking her from her",
+    "answer": "POPPAEA SABINA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Agrippina also objected to Nero’s affair with what freedwoman of Claudius?",
+    "answer": "(CLAUDIA) ACTE"
+  },
+  {
+    "category": "Literature",
+    "question": "What author disparages his father Patricius while praising his mother’s piety in an autobiography of his",
+    "answer": "AUGUSTINE // (AURELIUS) AUGUSTINUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Name Augustine’s mother.",
+    "answer": "MONICA"
+  },
+  {
+    "category": "Literature",
+    "question": "What book by what author changed Augustine’s life and inspired him to pursue philosophy?",
+    "answer": "CICERO’S HORTĒNSIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "For the verb adimō, give the 3rd person plural, perfect passive subjunctive, keeping in mind that it is a",
+    "answer": "ADEMPTĪ SINT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Give the same form for attingō.",
+    "answer": "ATTACTĪ SINT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Make both the form from the tossup and first bonus active.",
+    "answer": "ADĒMERINT and ATTIGERINT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Because her son looked too much like his Thracian father, what Athenian princess murdered her son Itys",
+    "answer": "PROCNE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Give the corresponding birds that Tereus, Philomela, and Procne were all turned into.",
+    "answer": "HOOPOE, SWALLOW, NIGHTINGALE [“SWALLOW” and “NIGHTINGALE” CAN BE FLIPPED]"
+  },
+  {
+    "category": "History",
+    "question": "Pandion had married Tereus to Procne for helping him in a war against what city led by Labdacus?",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententia: “dīs genite et genitūre deōs.” Quō cāsū",
+    "answer": "VOCĀTĪVŌ"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What use of the ablative is exemplified by the word dīs?",
+    "answer": "(ABLATIVE OF) {SOURCE / ORIGIN}"
+  },
+  {
+    "category": "Language",
+    "question": "What modern English letter is orthographically descended from the Greek letter which gives its",
+    "answer": "X"
+  },
+  {
+    "category": "Literature",
+    "question": "What author, who cites his father’s participation at Bedriacum for an anecdote, goes per speciēs in a",
+    "answer": "(GAIUS) SUETONIUS (TRANQUILLUS)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Under what emperor was Suetonius employed in the imperial archives, giving him a wealth of",
+    "answer": "HADRIAN"
+  },
+  {
+    "category": "Literature",
+    "question": "What later work, purporting to be by six different authors, imitates Suetonius’s style but is so",
+    "answer": "HISTORIA AUGUSTA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What name is shared by a senator whose support of the lēx Sempronia Agrāria got him a spot on the",
+    "answer": "CLAUDIUS PULCHER"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Tiberius Gracchus came to prominence while on the staff of Gaius Hostilius Mancinus during the",
+    "answer": "NUMANTIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Claudius Pulcher also had family ties to the Gracchi. What was his relationship with Tiberius?",
+    "answer": "FATHER-IN-LAW"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Translate the following exclamation into English: “Quam pulcher est homō quī virtūtem habet!”",
+    "answer": "HOW BEAUTIFUL IS A MAN WHO HAS VIRTUE!"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Translate the following sentence into English: “Quotiēns mūlus aquam bibit, totiēns ego vīnum.”",
+    "answer": "AS OFTEN AS A MULE DRINKS WATER I DO (DRINK) WINE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Finally, translate this one: “Tantō mē pauperior eris quantō tē sapientior sum.”",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What king, who lived with his 6 sons and 6 daughters that were married to one another, refused to help",
+    "answer": "AEOLUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In the Aeneid, what goddess commands Aeolus to try sinking Aeneas’ ships with his winds?",
+    "answer": "JUNO"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "According to some sources, what son of Aeolus proposed to him the idea of having his sons marry",
+    "answer": "SEMIFINAL ROUND"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Works in what form were famously discovered by Petrarch after being posthumously published by Tiro,",
+    "answer": "EPISTLES / LETTERS / EPISTULAE"
+  },
+  {
+    "category": "Literature",
+    "question": "What author’s disappointingly mediocre letter-collection, which includes a reference to a historical",
+    "answer": "(M. CORNELIUS) FRONTO"
+  },
+  {
+    "category": "Literature",
+    "question": "Name any two Latin authors between the death of Fronto and 565 AD who published an extant",
+    "answer": "POSSIBLE ANSWERS”]"
+  },
+  {
+    "category": "Language",
+    "question": "Identify and correct the mistake, if any, in the following Latin sentence: Līberōs meōs īrātus rogāvī",
+    "answer": "ĪVERINT SHOULD BE ĪVISSENT"
+  },
+  {
+    "category": "Language",
+    "question": "Identify and correct the mistake, if any, in the following Latin sentence: Adeō magistrum timeō nē",
+    "answer": "NĒ SHOULD BE UT NŌN"
+  },
+  {
+    "category": "Language",
+    "question": "Identify and correct the mistake, if any, in the following Latin sentence, which is intended to have a",
+    "answer": "UT NĒMŌ SHOULD BE NĒ QUIS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The capture of Vetera was the high point of whose revolt, which was incited by Fonteius Capito’s false",
+    "answer": "JULIUS CIVILIS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What two allies, also with the nōmen Julius, helped Civilis form his imperium Galliārum?",
+    "answer": "(JULIUS) CLASSICUS and (JULIUS) TUTOR"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Cerealis also fought in Britain and seems to have dealt with a revolt by Venutius, the former",
+    "answer": "CARTIMANDUA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What island, which saw a sacrifice to Apollo, Artemis, and Leto after the murder of Thersites, was the",
+    "answer": "LESBOS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Why did Achilles murder Thersites?",
+    "answer": "FOR MOCKING HIM FOR LAMENTING AFTER MURDERING PENTHESILEA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Arion had spent most of his life at the court of what tyrant of Corinth?",
+    "answer": "PERIANDER"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What type of object are all of the following: phasēlus, scapha, ratis, and — by metonymy — puppis?",
+    "answer": "BOAT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Navēs onerāriae taedā et pice et stuppā complētae sunt. Quid Anglicē significat “pix”?",
+    "answer": "PITCH / ASPHALT / TAR"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Navis in syrtim incessit. Quid Anglicē significat “syrtis”?",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Myth",
+    "question": "What mythological man was depicted “on his knees,” or en gonasin, after he fought the Ligurians in a",
+    "answer": "HERACLES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Engonasin is not the only constellation that commemorates Heracles. The constellation Ophiuchus",
+    "answer": "SNAKE / SERPENT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "When Heracles was wounded and fell to his knees while battling the Ligurians, what miraculous",
+    "answer": "A RAIN OF STONES"
+  },
+  {
+    "category": "Literature",
+    "question": "What author’s “Tale of the Tub” was potentially inspired by Aristides and the fābulae Milēsiae, which",
+    "answer": "(L.) APULEIUS"
+  },
+  {
+    "category": "Literature",
+    "question": "What Republican historian, a so-called ēmendātor sermōnis ūsitātī, penned a Latin collection of",
+    "answer": "(L. CORNELIUS) SISENNA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Name either the wife of Milo whom Lucius saw transform into an owl, or her servant who",
+    "answer": "PAMPHILA or PHOTIS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Lucius Domitius Ahenobarbus failed to obtain the consulship of what year B.C., which saw Caesar’s",
+    "answer": "55 (B.C.)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What law of 55 B.C. was one such deal, as it procured governorships in Syria and Spain for Crassus",
+    "answer": "LĒX TREBŌNIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Ahenobarbus, a staunch opponent of Caesar, attempted in 49 B.C. to intercept Caesar’s forces at",
+    "answer": "CORFINIUM"
+  },
+  {
+    "category": "Language",
+    "question": "Translate the following sentence into Latin: “I do not know what children he is the father of.”",
+    "answer": "NESCIŌ QUŌRUM {FĪLIŌRUM / NĀTŌRUM / LĪBERŌRUM} PATER SIT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Now translate this one using dēsum: “I never thought I would lack words.”",
+    "answer": "{DĒFŪTURA (ESSE) // DĒFORE}"
+  },
+  {
+    "category": "History",
+    "question": "Now translate this sentence, using two different non-indicative forms of caveō: “Don’t beware big",
+    "answer": "PARVŌS (CANĒS)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Of the words “roulette,” “round,” “adroit,” “enroll,” and “rotate,” which does NOT belong by",
+    "answer": "ADROIT"
+  },
+  {
+    "category": "Language",
+    "question": "What Latin verb is at the root of “routine” and “route”?",
+    "answer": "RUMPŌ"
+  },
+  {
+    "category": "Language",
+    "question": "What Latin noun is at the root of the Spanish word “arroyo” meaning “ravine” and the French word",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "New alluvial deposits allowed what man to find respite from his madness after anger at the effects of",
+    "answer": "ALCM(A)EON"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "These alluvial deposits were found at what river, whose god gave Alcmaeon his daughter Callirhoe",
+    "answer": "ACHELOUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Alcmaeon’s tomb, surrounded by tall cypress trees, was found near what city, where he was",
+    "answer": "PSOPHIS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In what field of study might one use two similar three-letter abbreviations, one ending with F and one",
+    "answer": "MATH(EMATICS)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Description acceptable. In what field of work within Classics might one find abbreviations like ed.",
+    "answer": "FROM MANUSCRIPTS [ACCEPT EQUIVS.]"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The abbreviation ed. pr. refers to the first publication of a particular text. What does it stand for?",
+    "answer": "ĒDITIŌ PRĪNCEPS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In his criticism of epigrammatic sententiae and the Senecan style, who advocates for a focus on rērum",
+    "answer": "(M. FABIUS) QUINTILIAN(US)"
+  },
+  {
+    "category": "Literature",
+    "question": "About what Flavian epic poet, who adapted Apollonius of Rhodes, did Quintilian write “multum",
+    "answer": "(C.) VALERIUS FLACCUS (BALBUS SETINUS)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What megalomaniacal rhetorician was a notorious example of the fear of corrupt teachers passing",
+    "answer": "REMMIUS PALAEMON"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The reports of an enslaved man named Vindicius forced what consul to preside over the execution of his",
+    "answer": "(L. JUNIUS) BRUTUS"
+  },
+  {
+    "category": "History",
+    "question": "Shortly after this battle, Publicola earned the people’s favor by moving his house off of what hill?",
+    "answer": "VELIA // VELIAN (HILL)"
+  },
+  {
+    "category": "History",
+    "question": "The battle of Silva Arsia was inconclusive at first, but what supernatural event proved that the",
+    "answer": "ETRUSCANS HAD SUSTAINED ONE MORE LOSS)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Of the words ter, quater, pater, alter, and ūter, how many of them can you add an “e” at the end of to",
+    "answer": "FOUR (ALL EXCEPT ALTER)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "How many of those four verb forms – that is, tere, quatere, patere, and ūtere – could be",
+    "answer": "ALL FOUR"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Identify which of these verb forms, if any, would still be legitimate verb forms if the first “e” were",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Literature",
+    "question": "Premiering in 191 B.C. but later revived with the actor Roscius, what Plautine play features the pimp",
+    "answer": "PSEUDOLUS"
+  },
+  {
+    "category": "Literature",
+    "question": "What Plautine play, where a man tries to convince his daughters to divorce their husbands,",
+    "answer": "STICHUS"
+  },
+  {
+    "category": "Literature",
+    "question": "In what play of Plautus does Saturio sell a pretend Arabian captive to a pimp so that he can buy a",
+    "answer": "PERSA"
+  },
+  {
+    "category": "Myth",
+    "question": "Helios nightly rode the currents of what river, which was believed to issue from the Underworld and to",
+    "answer": "OCEANUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What peculiar vessel did Helios use to complete his daily journey on the river Ocean? A description",
+    "answer": "(GOLDEN) CUP"
+  },
+  {
+    "category": "History",
+    "question": "In Prometheus Bound, the river Oceanus appears as a character and rides on what animal, which",
+    "answer": "GRIFFIN"
+  },
+  {
+    "category": "History",
+    "question": "Listen carefully to the following passage about scenes of horror during the civil war, which I will read",
+    "answer": "THE SIGHT OF CITIZENS’ BLOOD BEING SHED [ACCEPT CLOSE EQUIVS.]"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "How did one soldier manage to take spoils from his own brother’s body without the body being",
+    "answer": "HE {CUT OFF // HURLED / KICKED AWAY} HIS BROTHER’S HEAD"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What did the soldier who killed his father attempt to prove to the spectators, and how?",
+    "answer": "DISPLAYED TOWARD THE BODY"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Efforts against what phenomenon provoked a revolt on the Caelian Hill by Felicissimus, saw the",
+    "answer": "PRACTICAL EFFECT OF THAT ACTION?”; DO NOT ACCEPT “PRICE GOUGING”]"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "When the emperor Constans failed to quell inflation, what man usurped rule of the West in 350 A.D.",
+    "answer": "MAGNENTIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What term refers to the new gold coin that replaced the aureus during the reign of Diocletian and",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Language",
+    "question": "What Latin word appears in the ancient names of Chaves in modern-day Portugal, Baden-Baden in",
+    "answer": "AQUA(E)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What is the modern name of Germany’s city of Aquae Granni, which was Charlemagne’s capital?",
+    "answer": "AACHEN"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In what modern-day country is the city of Aquae Regiae located, like Hadrumentum and Thysdrus?",
+    "answer": "FINAL ROUND"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In the Iliad, elm trees were planted around the burial mound of what king, who ruled a city at the foot of",
+    "answer": "EETION"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What was the apt name of Eetion’s city that he ruled?",
+    "answer": "HYPOPLACIAN THEBES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "During another of Achilles’ excursions, he captures what son of Priam, while he worked in an",
+    "answer": "LYCAON"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which of the following, if any, would an Ancient Roman likely NOT have recognized as a profession?",
+    "answer": "ABŪTOR"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which of the following, if any, would an Ancient Roman likely NOT have eaten? trīticum, pāvō,",
+    "answer": "NONE OF THE ABOVE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which of the following, if any, would an Ancient Roman likely NOT have recognized as a color?",
+    "answer": "HIRSŪTUS"
+  },
+  {
+    "category": "History",
+    "question": "Titles meaning “Night Watch” and “Battle on the Ships” — Nyctēgresia and Epinausimachē — were",
+    "answer": "ACCIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "For what nobleman and fellow tragedian did Accius notably refuse to rise in a meeting of the",
+    "answer": "(C. JULIUS) CAESAR STRABO"
+  },
+  {
+    "category": "Language",
+    "question": "Accius wasn’t the only tragedian with difficult Greek titles. Name either the tragedy of Ennius",
+    "answer": "HECTORIS LUTRA or ANDROMACHA AECHMALŌTIS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What conflict, at whose sites archaeologists found sling bullets labeled “Piso,” saw Rupilius defeat a",
+    "answer": "2023 Harvard Certamen Adv. Finals Visual"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Inscriptions on sling bullets, sometimes with insulting messages or obscene drawings, were",
+    "answer": "PERUSIA / PERUGIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What is the nōmen of the man referred to in sling bullet 8, whose praenōmen was Quintus?",
+    "answer": "SALVIDIENUS"
+  },
+  {
+    "category": "Language",
+    "question": "What exact Latin form completes these blanks: “sed vetant [blank] Iovis”; “corruptissimā rē pūblicā",
+    "answer": "LĒGĒS"
+  },
+  {
+    "category": "Language",
+    "question": "Fill in the following sentence with Latin of your own making that idiomatically explains the relevant",
+    "answer": "SAMPLE ANSWER: ALIQUID FACERE CONANTUR QUOD FIERI NON POTEST"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Now do the same for this sentence: “Prōverbium ‘Acheruntis pābulum’ dictum est dē eīs",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Literature",
+    "question": "Who ensured the survival of Latin literature when he began the tradition of scriptōria in his monastery",
+    "answer": "CASSIODORUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Both Boethius and Cassiodorus served in what position at the culmination of their political careers?",
+    "answer": "MAGISTER OFFICIŌRUM"
+  },
+  {
+    "category": "Literature",
+    "question": "What author from Seville made an essential contribution to the preservation of classical knowledge",
+    "answer": "ISIDORE (OF SEVILLE)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "When recognized by the spotter, perform the following commands: tendēns manum ad vultum sociī,",
+    "answer": "BETWEEN THEIR INDEX AND MIDDLE FINGERS, AND SHOUT “GOT YOUR NOSE!”"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Now perform these commands: Simulā tē invēnisse nummulum aureum post aurem sodālis, et",
+    "answer": "THAT THEY PLAN TO GIVE IT TO THE MODERATORS IN EXCHANGE FOR FIVE POINTS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Now perform these commands: ūtrāque manū facite circulum pollice et indice; deinde, manibus",
+    "answer": "THEIR HANDS UPSIDE DOWN AND HOLD THE CIRCLES AGAINST THEIR EYES LIKE A MASK"
+  },
+  {
+    "category": "History",
+    "question": "What event, where judges wore dark-coloured clothing in mourning, rewarded victors with parsley, and",
+    "answer": "NEMEAN GAMES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Right after these games, the Seven Against Thebes reached Thebes where Tydeus met what man,",
+    "answer": "MAEON"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who was the father of the 4 leading defenders of Thebes, most notably Melanippus, whose brains",
+    "answer": "ASTACUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Differentiate in derivation, if necessary, between “decoy” and “coy,” the first of which is cognate with",
+    "answer": "CAVUS / CAVEA and QUIĒS / QUIESCŌ / QUIĒTUS, RESPECTIVELY"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Differentiate in derivation, if necessary, between “chinch” and “cinch.”",
+    "answer": "CIMEX and CINGŌ, RESPECTIVELY"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Differentiate in derivation, if necessary, between “colony” and “colonel.”",
+    "answer": "COLŌ / COLŌNUS and COLUMNA, RESPECTIVELY"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What city, the site of Hadrian’s death, was connected to Puteoli with a pontoon bridge by Caligula, as he",
+    "answer": "BAIAE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What Republican commander died of a massive hemorrhage in Puteoli after retiring from power?",
+    "answer": "SULLA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What was the name of the astrologer of Tiberius who had cast doubt on Caligula’s imperial",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Literature",
+    "question": "Note to players, there is an extra clue after the question. Which of the following is the highest honor a",
+    "answer": "CORŌNA OBSIDIŌNĀLIS"
+  },
+  {
+    "category": "History",
+    "question": "What honor was a gold crown awarded to the first person to enter a besieged town?",
+    "answer": "CORŌNA MŪRĀLIS"
+  },
+  {
+    "category": "History",
+    "question": "What was the second highest honor, awarded for saving the life of a citizen?",
+    "answer": "CORŌNA CĪVICA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Listen carefully to the following passage adapted from Augustine, which I will read twice, then answer",
+    "answer": "(ACHIEVING) HAPPINESS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "How does Augustine describe what happens as someone is reciting an imperial panegyric?",
+    "answer": "THE SPEAKER LIES, BUT THE AUDIENCE FAVORS HIM EVEN THOUGH THEY KNOW HE’S LYING"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The passage continues.",
+    "answer": "WHETHER HE WOULD RATHER BE LIKE THE BEGGAR OR IN HIS CURRENT STATE"
+  },
+  {
+    "category": "Literature",
+    "question": "Crassicius Pasicles wrote a commentary on what author, a native of Brescia who wrote a propempticon",
+    "answer": "CINNA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What fellow neoteric wrote an epicēdion for his wife Quintilia?",
+    "answer": "LICINIUS CALVUS"
+  },
+  {
+    "category": "Literature",
+    "question": "Cinna may have brought what Greek author to Rome, a friend of Cornelius Gallus whose Erōtica",
+    "answer": "PARTHENIUS (OF NICAEA)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Objects of what type were recovered from Maenalus by the Mantineans, found near a forge in Tegea by",
+    "answer": "BONES / SKELETONS (OF DEAD HEROES)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Around 475 B.C., on what island did the Athenian general Cimon claim to find the bones of",
+    "answer": "SCYROS"
+  },
+  {
+    "category": "Myth",
+    "question": "What mythological figure’s bones were recovered from Maenalus by the Mantineans?",
+    "answer": "ARCAS(’S)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What foreign ruler landed at Demetrias and was beaten by Acilius Glabrio despite Aetolian support,",
+    "answer": "ANTIOCHUS {III // THE GREAT}"
+  },
+  {
+    "category": "History",
+    "question": "During the Roman-Seleucid War, a Roman fleet off the coast of what town defeated a Seleucid fleet",
+    "answer": "MYONESSUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What Rhodian admiral fought on the Roman side at Myonessus after defeating a Phoenician navy",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Translate into English this sentence, with an extra clue after two readings: “Meā interest ea quibus",
+    "answer": "THERE IS NO NEED {BE ABSENT // NOT BE HERE}"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Now translate this sentence: “Manifestum est paucissimōs esse quī ratiōne quōquō modō ūtī",
+    "answer": "IT IS {CLEAR / PLAIN} THAT THERE ARE VERY FEW (MEN) WHO CAN USE REASON IN ANY WAY"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Now translate this sentence adapted from the Dē Bellō Cīvilī: “Ita loquitur Afrānius: nōn esse",
+    "answer": "SOLDIERS FOR PRESERVING THEIR FAITH TOWARDS POMPEY"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "After he dreamt that a woman asked him to give her a home at Anaphe, who threw the Triton-given gift",
+    "answer": "EUPHEMUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Euphemus was originally from what town at the tip of the Peloponnesus, which was celebrated as an",
+    "answer": "TAENARUM"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What Spartan leader led Euphemus’ descendants to the island Calliste, which he later renamed after",
+    "answer": "THERAS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What ruler was slain by an Amal chieftain at the orders of the Eastern emperor who had made him",
+    "answer": "ODO(V)ACER"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Zeno had previously tried to take advantage of Theoderic the Amal by sending him against another",
+    "answer": "STRABO"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Name any of the Ostrogothic rulers who came after Theoderic and sought to prevent Justinian’s",
+    "answer": "THEODAHAD / VITIGIS / ILDEBAD / ERARIC / TOTILA / TEIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What fate was inflicted on Grunnius Corocotta in the Testāmentum Porcellī and on a gigantic gift given",
+    "answer": "(BEING) {COOKED / EATEN}"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What contemporary of Tiberius describes an ideal where “at the table no one will recognize what he",
+    "answer": "(M. GAVIUS) APICIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What work of Ausonius includes a description of the narrator giving instructions to a cook?",
+    "answer": "**SCORE CHECK**"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Used once after the verb form pudet by Tacitus, rarely with opus est, and often with the adjective",
+    "answer": "ABLATIVE SUPINE"
+  },
+  {
+    "category": "Language",
+    "question": "Using a form of pudet, say in Latin “A shameful crime has been committed.”",
+    "answer": "PUDENDUM {SCELUS / FACINUS} {COMMISSUM / FACTUM / PATRĀTUM} EST"
+  },
+  {
+    "category": "Language",
+    "question": "Using the most common construction with dignus, say in Latin: “She is worthy of being spared, but",
+    "answer": "DIGNA EST CUI PARCĀTUR, SED NŌN (CUI) IGNOSCĀTUR"
+  },
+    {
+    "category": "Uncategorized",
+    "question": "Which of the following, if any, does not belong: patience, passive, patent, compassion, and passage?",
+    "answer": "PATENT"
+  },
+  {
+    "category": "Language",
+    "question": "From what Latin verb with what meaning is patent derived?",
+    "answer": "PATEO – TO BE OPEN, LIE OPEN, BE EVIDENT"
+  },
+  {
+    "category": "Language",
+    "question": "From what Latin verb with what meaning are the other words in the tossup derived?",
+    "answer": "PATIOR – SUFFER, ENDURE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Identify the use of the subjunctive in the following sentence: Imperatores dicunt se gladium quem teneas tibi dedisse.",
+    "answer": "SUBORDINATE CLAUSE WITHIN INDIRECT DISCOURSE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Identify the use of the subjunctive in the following sentence: illi sunt qui gladium tibi dedissent.",
+    "answer": "RELATIVE CLAUSE OF CHARACTERISTIC"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Now for this sentence: imperatores gladium tibi dabunt quo celerius hostem oppugnes.",
+    "answer": "(COMPARATIVE) PURPOSE"
+  },
+  {
+    "category": "Language",
+    "question": "In Book IV of the Iliad, which deity, in the guise of Laodocus, is sent by Zeus to break the truce between the Greeks and",
+    "answer": "ATHENA"
+  },
+  {
+    "category": "Language",
+    "question": "Which of the Greek chieftains receives the wound from Pandarus’ arrow?",
+    "answer": "MENELAUS"
+  },
+  {
+    "category": "Language",
+    "question": "Which of the Greeks heals Menelaus of this wound?",
+    "answer": "MACHAON"
+  },
+  {
+    "category": "Literature",
+    "question": "What African playwright from Carthage landed onto the scene of Latin literature with the debut of Andria, his first play",
+    "answer": "TERENCE"
+  },
+  {
+    "category": "Literature",
+    "question": "Which play of Terence was produced at the funeral games of Aemelius Paulus in 160 BC and was considered",
+    "answer": "ADELPHI"
+  },
+  {
+    "category": "Literature",
+    "question": "Which play of Terence features a parasite of a young man who helps his cousins Phaedria and Antipho get the",
+    "answer": "[SCORE CHECK]"
+  },
+  {
+    "category": "History",
+    "question": "What battle of 58 B.C was the opening battle of Caesar's campaign in Gaul?",
+    "answer": "BIBRACTE"
+  },
+  {
+    "category": "History",
+    "question": "Against what Gallic tribe was this battle fought?",
+    "answer": "THE HELVETII"
+  },
+  {
+    "category": "History",
+    "question": "What German chieftain did Caesar defeat in a battle later that year?",
+    "answer": "ARIOVISTUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Complete the following analogy. Pono : Posuistis as Tolo : _______.",
+    "answer": "SUSTULISTIS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Complete the following analogy: Pono : Positus est as Fero : _______.",
+    "answer": "LATUS EST"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Complete the following analogy: Pono : Poneretur as Facio : _______.",
+    "answer": "FIERET"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Boston is a very cool city and cool cities have super cool mottoes! The motto of the city of Boston is Sicut Patribus, sit Deus",
+    "answer": "AS TO OUR FATHERS, MAY BE TO US"
+  },
+  {
+    "category": "Language",
+    "question": "Chicago is another interesting American place as it is the “City in a Garden,” what is the Latin for this phrase,",
+    "answer": "2"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "London is not in America; it’s actually kind of far away, but other cities in other places also have mottoes.",
+    "answer": "LORD GUIDE US"
+  },
+  {
+    "category": "Literature",
+    "question": "The phrase “oderint dum metuant,” used heavily by Caligula during his reign can actually be found in what earlier author’s",
+    "answer": "ACCIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In which of Accius’ fabulae cothurnatae can we find the phrase “oderint dum metuant”?",
+    "answer": "ATREUS"
+  },
+  {
+    "category": "History",
+    "question": "In which of Accius’ fabulae praetextae can we find the events surrounding the battle of Sentinum in 295 BC?",
+    "answer": "[SCORE CHECK]"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "“Lineae Confusae” by Turdus Pinguis was a top-selling pop song in 2013. What is its title in English?",
+    "answer": "(By Robin Thicke. The scientific name for the American Robin is Turdus migratorius.)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "“Illa Viginti/Viginti Consuetudo,” was the title of the top-selling album in 2013. What is its title in English?",
+    "answer": "THE 20/20 EXPERIENCE (By Justin Timberlake)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Miley Cyrus was the only female artist with two songs in the year-end top 20. Translate either one of them into",
+    "answer": "or PILA RUENS/FRANGENS/ADFLICTANS (\"Wrecking Ball\")"
+  },
+  {
+    "category": "Literature",
+    "question": "What golden age author, born in Venusia, joined Brutus’ army at the battle of Philippi and later went on to write works such",
+    "answer": "HORACE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In addition to his military background, Horace also worked for the treasury. What was his position there?",
+    "answer": "SCRIBE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which of Horace’s works includes an invective against a witch named Canidia and a reverse propempticon to",
+    "answer": "EPODES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What city was conquered by the Romans in 133 B.C, effectively ending Spanish resistance?",
+    "answer": "NUMANTIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What Roman nobleman and literary patron was in charge of the Roman forces at Numantia?",
+    "answer": "SCIPIO AEMLIANUS"
+  },
+  {
+    "category": "History",
+    "question": "What future enemy of Rome was also present at the siege of Numantia, serving as a Roman",
+    "answer": "JUGURTHA"
+  },
+  {
+    "category": "Language",
+    "question": "The centaurs Eurytion and Nessus, the musician-teacher Linus, and the Trojan king Laomedon were all killed by what Greek",
+    "answer": "HERACLES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "For the murder of which of the figures in the toss-up was Heracles acquitted when he argued self-defense?",
+    "answer": "LINUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What youth became Heracles’ lover after Heracles killed his father Theiodamas?",
+    "answer": "CONFIDEMUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Make confidemus perfect.",
+    "answer": "CONFISI SUMUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Make confisi sumus pluperfect subjunctive.",
+    "answer": "PELOPS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Name the charioteer of Oenomaus who betrayed his master and helped Pelops win the race.",
+    "answer": "MYRTILUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "To what god, the father of Myrtilus, did Pelops later institute a worship after murdering the charioteer?",
+    "answer": "VINDOBONNA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Name of the Germanic tribes against which Marcus Aurelius fought during his reign?",
+    "answer": "MARCOMANNI, QUADI, IAZYGES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Name another",
+    "answer": "STATIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What was the name of this work?",
+    "answer": "DE BELLO GERMANICO"
+  },
+  {
+    "category": "Myth",
+    "question": "Statius, other than the Thebaid, wrote another mythological epic, which was unfinished due to his death. Give",
+    "answer": "ROUND 2"
+  },
+  {
+    "category": "History",
+    "question": "At what battle of 255 B.C were the Roman consuls Regulus and Vulso decisively defeated outside of Carthage?",
+    "answer": "BAGRADAS VALLEY"
+  },
+  {
+    "category": "History",
+    "question": "After the battle, Regulus was captured by the Carthaginians and sent back to the Romans as an emissary.",
+    "answer": "TO NEVER SURRENDER"
+  },
+  {
+    "category": "History",
+    "question": "In the aftermath of the battle of Bagradas Valley, the Roman fleet, which rescued the survivors of Regulus'",
+    "answer": "THE CORVUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "For the verb parco, parcere, give the 3rd person plural imperfect active subjunctive.",
+    "answer": "PARCERET."
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Make parceret perfect.",
+    "answer": "PEPERCERIT."
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Make pepercerit passive.",
+    "answer": "PARSUS (A,UM) SIT"
+  },
+  {
+    "category": "Language",
+    "question": "Give the Latin for the famous quote by Ovid meaning “Fools laugh at the Latin Language”",
+    "answer": "FORTUNE FAVORS THE BRAVE/BOLD"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Although the first line is purely in hexameter, what prose work is the oldest fully extant text to come to us in its entirety?",
+    "answer": "DE AGRICULTURA/DE RE RUSTICA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "This prose work was written by Cato the Elder, known as a politician and a vehement orator. Which of his",
+    "answer": "ORATIO PRO RHODENSIBUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In which of Cato’s other works can we find the famous saying “rem tene, verba sequentur?”",
+    "answer": "[SCORE CHECK]"
+  },
+  {
+    "category": "Language",
+    "question": "“Lycius” and “Smintheus” are both epithets of what Greek deity?",
+    "answer": "APOLLO"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which epithet of Apollo means “Interpreter”?",
+    "answer": "LOXIAS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which epithet of Apollo means “He of the Ways”?",
+    "answer": "AGYIEUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Identify the use of the ablative in the following sentence. Puellae, videntes regem pulchrum, gaudio ardere coeperunt.",
+    "answer": "CAUSE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Identify the use of the ablative in the following sentence. Hic rex, audiens clamorem puellarum, plenus superbiā",
+    "answer": "(SPECIAL) ADJECTIVES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Identify the use of the ablative in the following sentence. Hic rex facie pulcher non corde est.",
+    "answer": "RESPECT/SPECIFICATION"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What third century emperor was captured and later executed by the Sassanaid Persians?",
+    "answer": "VALERIAN"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who was the ruler of the Sassanaids at that time?",
+    "answer": "SHAPUR I"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What later fourth century emperor died while campaigning against the Sassanaids?",
+    "answer": "JULIAN (THE APOSTATE)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What son of Helius and brother of Circe was an infamously ruthless king best known for his hostile treatment of Jason and",
+    "answer": "AEETES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Of what region on the Black Sea was Aeetes king?",
+    "answer": "COLCHIS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who was the daughter of Aeetes whom he gave to Phrixus as a wife?",
+    "answer": "[SCORE CHECK]"
+  },
+  {
+    "category": "History",
+    "question": "Being completely alliterative, translate into Latin: “King Romulus walks back to Rome.”",
+    "answer": "QUID QUINTUS QUAESIVIT?"
+  },
+  {
+    "category": "Language",
+    "question": "What derivative of the Latin verb meaning “to speak” means “fortune, lot, or destiny”?",
+    "answer": "FATE"
+  },
+  {
+    "category": "Language",
+    "question": "What derivative of the Latin verb meaning “to cover” means “a person under the protection or care of",
+    "answer": "PROTÉGÉ"
+  },
+  {
+    "category": "Language",
+    "question": "What derivative of the Latin word meaning “to take, choose, or obtain” means “to devour or destroy by use”?",
+    "answer": "CONSUME"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Deucalion, Catreus, Phaedra, and Ariadne were all children of what Cretan King?",
+    "answer": "MINOS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who was their mother?",
+    "answer": "PASIPHAE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What son of Minos and Pasiphae died in infancy?",
+    "answer": "GLAUCUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In which of Cicero’s speeches does he defend an aedile against the charge of bribery?",
+    "answer": "PRO PLANCIO"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In which of Cicero’s speeches does he defend a man from a charge of murder, while attacking a powerful",
+    "answer": "PRO ROSCIO AMERINO"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In which of Cicero’s speeches does he favor the renewal of Caesar’s campaign in Gaul?",
+    "answer": "CARPO – PLUCK, SEIZE, PULL OFF, SELECT, CHOOSE OUT"
+  },
+  {
+    "category": "Language",
+    "question": "From what Latin verb with what meaning do we get the English word accent?",
+    "answer": "CANO/CANTO – SING"
+  },
+  {
+    "category": "Language",
+    "question": "From what Latin noun with what meaning do we get the English word chalk?",
+    "answer": "LAOCOON"
+  },
+  {
+    "category": "Language",
+    "question": "Later on in Book II, the Greek Sinon convinces the Trojans to accept the horse and claims that he had fled from the",
+    "answer": "ULYSSES (cannot accept Odysseus because the question specifies Aeneid)"
+  },
+  {
+    "category": "Language",
+    "question": "Furthermore, Sinon claims that which of the Greeks had been sent to Delphi and was told that they had to sacrifice one of",
+    "answer": "SIDICINI"
+  },
+  {
+    "category": "History",
+    "question": "The First Samnite War ended in 341 B.C when the Samnites signed a peace treaty with the Romans, despite the fact that",
+    "answer": "ARCHIDAMUS"
+  },
+  {
+    "category": "History",
+    "question": "What war, fought between Rome and her allies, was a direct result of the First Samnite War?",
+    "answer": "ENNIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In the Annales, Ennius claims that in a dream of his, Homer comes to him and claims what about Ennius?",
+    "answer": "THAT ENNIUS IS HOMER’S REINCARNATION"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which other work of Ennius, partially written in 169 B.C., was his final tragedy?",
+    "answer": "ROUND 3"
+  },
+  {
+    "category": "Literature",
+    "question": "Which neoteric poet wrote an epic about Julius Caesar’s war against Ariovistus in 58 BC?",
+    "answer": "VARRO OF ATAX"
+  },
+  {
+    "category": "Literature",
+    "question": "Atax translated Argonauticae into hexamaters. Who was the original author of this work?",
+    "answer": "APOLLONIUS OF RHODES"
+  },
+  {
+    "category": "Literature",
+    "question": "Besides epic poetry, Varro of Atax also wrote erotic poetry to his beloved woman. Name her.",
+    "answer": "LEUCADIA"
+  },
+  {
+    "category": "History",
+    "question": "Against what foreign king did both Domitian and Trajan wage war, ultimately conquering his kingdom in 106 A.D?",
+    "answer": "DECEBALUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Of what kingdom was Decebalus the king?",
+    "answer": "DACIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Between 89 and 106 AD, Decebalus proved himself to be a thorn in the side of the Roman empire. How many",
+    "answer": "TWICE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Give the dative singular for this very night.",
+    "answer": "HUIC IPSI NOCTI"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Make huic ipsi nocti ablative.",
+    "answer": "HĀC IPSĀ NOCTE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Make hāc ipsā nocte genitive plural.",
+    "answer": "HARUM IPSARUM NOCTIUM"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What ancient athletic festival, held in the same stadium as the Olympic Games, was said to have been founded by",
+    "answer": "HERAEAN GAMES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who is said to have been the first winner of these games?",
+    "answer": "CHLORIS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Chloris is also said to have been the only daughter of Niobe to survive the onslaught of Apollo and Artemis.",
+    "answer": "[SCORE CHECK]"
+  },
+  {
+    "category": "Language",
+    "question": "Using an accusative gerundive, translate the following sentence into Latin: “We came to the city to see the sights.”",
+    "answer": "(Sequence of tenses: Past main verb needs imperfect subjunctive here.)"
+  },
+  {
+    "category": "History",
+    "question": "After what battle in 216 B.C did Hannibal “liberate” Rome's southern Italian allies?",
+    "answer": "CANNAE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Although he gained a temporary advantage over the Romans in the aftermath of Cannae, Hannibal",
+    "answer": "CAPUA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What southern Italian city, which Hannibal first captured in 213 B.C, did Fabius Maximus Cunctator",
+    "answer": "TARENTUM"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What man, the grandfather of Laertes, married an Athenian princess who had affairs with such men as Pteleon and Minos",
+    "answer": "CEPHALUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "His wife, of course, was Procris. Who was their son, the father of Laertes?",
+    "answer": "ARCEISIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "After killing his wife, Cephalus was tried and banished from Athens. To what city did he then wander?",
+    "answer": "THEBES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Identify the use of the genitive in the following sentence: Interest omnium recte facere.",
+    "answer": "SPECIAL VERB"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Identify the use of the genitive in the following sentence: Fures agricolīs acervum frumenti non rapiant.",
+    "answer": "MATERIAL"
+  },
+  {
+    "category": "Literature",
+    "question": "What author at the age of 30 dropped his early interests in philosophy to compose his large historical work in 142 books?",
+    "answer": "LIVY"
+  },
+  {
+    "category": "Literature",
+    "question": "Livy’s work, Ab Urbe Condita, started with the mythical story of Aeneas’ flight from Troy into Italy. Which",
+    "answer": "DEATH OF DRUSUS I"
+  },
+  {
+    "category": "Literature",
+    "question": "The work of what earlier Greek historian serves as the main source for the Ab Urbe Condita?",
+    "answer": "POLYBIUS"
+  },
+  {
+    "category": "Language",
+    "question": "What two Latin nouns with what meaning give us the English word “pedigree”?",
+    "answer": "PES-FOOT, GRUS-CRANE"
+  },
+  {
+    "category": "Language",
+    "question": "What two Latin nouns with what meaning give us the English word “manure”?",
+    "answer": "MANUS-HAND, OPUS-WORK"
+  },
+  {
+    "category": "Language",
+    "question": "What two Latin words with what meaning gives us the English word “crucify”?",
+    "answer": "CRUX-CROSS, FIGO-FIX, BIND"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In what year did Pompey the Great refuse the senate's command to disband his army, demanding instead that he be sent to",
+    "answer": "77 B.C"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Against what other Roman rebel had Pompey been recently victorious when he made this demand?",
+    "answer": "LEPIDUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What Roman commander did Pompey succeed in the fight against Sertorius?",
+    "answer": "(QUINTUS CAECILIUS) METELLUS PIUS"
+  },
+  {
+    "category": "Language",
+    "question": "Translate the Latin motto of Brooklyn College: Nil sine magno labore.",
+    "answer": "POTENTIAL"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Identify the use of the subjunctive in the following sentence: Utinam tui filii homines bonos fuissent!",
+    "answer": "OPTATIVE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Identify the use of the subjunctive in the following sentence: Misisti tuos filios ad scholam qui homines",
+    "answer": "IDMON"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "How did Idmon die?",
+    "answer": "KILLED BY A BOAR"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who was Idmon’s mother?",
+    "answer": "AETOLIAN WAR/WAR AGAINST ANTIOCH"
+  },
+  {
+    "category": "History",
+    "question": "In what year was the Battle of Myonessus fought?",
+    "answer": "190 B.C."
+  },
+  {
+    "category": "History",
+    "question": "In what year was the battle of Thermopylae fought?",
+    "answer": "PROPERTIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "According to Apuleius, what was the real name of this woman?",
+    "answer": "HOSTIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Propertius in his days once proclaimed “nescio quid maius nascitur Illiade.” To what work was he referencing?",
+    "answer": "FINAL ROUND"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Of the verbs cingō, tondeō, farciō, sepeliō, and torreō, which is described here? ponere cadaver in humō.",
+    "answer": "SEPELIŌ"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "…which is described here? secāre lanam ex agnō.",
+    "answer": "TONDEŌ"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "…which is described here? coquere carnem in igne.",
+    "answer": "TORREŌ"
+  },
+  {
+    "category": "Myth",
+    "question": "Who in mythology twice deceived her husband – first with a baby foal and again with a swaddled stone to",
+    "answer": "RHEA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What Cretan spirits assisted Rhea in protecting the infant Zeus by clashing their shields to mask",
+    "answer": "CURETES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What she-goat nourished the infant Zeus while he grew up on Crete?",
+    "answer": "AMALTHEIA"
+  },
+  {
+    "category": "Language",
+    "question": "What organization has as its Latin motto “ad maiorem Dei gloriam”, meaning “for the greater glory of god”?",
+    "answer": "THE SOCIETY OF THE JESUITS"
+  },
+  {
+    "category": "Language",
+    "question": "What U.S. film company has as its Latin motto “ars gratiā artis”?",
+    "answer": "METRO-GOLDWYN-MAYER / MGM"
+  },
+  {
+    "category": "Language",
+    "question": "Give the Latin and English for the motto of the Epicureans.",
+    "answer": "DUM VIVIMUS, VIVAMUS – WHILE WE LIVE, LET US LIVE"
+  },
+  {
+    "category": "Literature",
+    "question": "What author was exiled to Corsica because of his alleged involvement with Caligula’s sister, although he",
+    "answer": "SENECA THE YOUNGER"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which of Seneca’s philosophical dialogues, addressed to his brother, discusses in three books the",
+    "answer": "DE IRA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Seneca’s body of work also includes a collection of various tragedies. Give the title of his",
+    "answer": "MEDEA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Listen to the following passage which I will read twice and answer in English the question that follows.",
+    "answer": "CREMATED HIMSELF ON A PYRE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What prompted him to do this?",
+    "answer": "COULD NOT REMOVE POISONED CLOTHING"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What is this hero’s name?",
+    "answer": "[SCORE CHECK]"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What leading citizen and statesman of Aricia was set up as a traitor and executed for speaking out against",
+    "answer": "TURNUS HERDONIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "How did Tarquinnius frame Herdonius?",
+    "answer": "STORED A LARGE NUMBER OF WEAPONS IN HIS TENT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Where did this meeting take place?",
+    "answer": "FERENTINE GROVE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Whose unprecedented production of a combined comedy and tragedy at the Ludi Romani of 240 BC",
+    "answer": "LIVIUS ANDRONICUS"
+  },
+  {
+    "category": "Language",
+    "question": "What Greek style hymn, consisting of nine maidens, did the pontifices request Andronicus to",
+    "answer": "PARTHENION"
+  },
+  {
+    "category": "Literature",
+    "question": "Through his diligence as a poet, Andronicus earned public honors for his professional guild,",
+    "answer": "MINERVA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What emperor extended the frontier in Scotland by constructing a 37-mile wall from the firth of Forth to the",
+    "answer": "ANTONINUS PIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What governor of Britain oversaw the construction of this wall?",
+    "answer": "LOLLIUS URBICUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What building project did Antoninus commission in the Forum to commemorate his deceased",
+    "answer": "TEMPLE OF ANTONINUS & FAUSTINA"
+  },
+  {
+    "category": "Language",
+    "question": "From what Latin noun with what meaning do we derive the English word “savage”?",
+    "answer": "SILVA – FOREST"
+  },
+  {
+    "category": "Language",
+    "question": "From what Latin noun with what meaning do we derive the English word “tinsel”?",
+    "answer": "SCINTILLA – SPARK"
+  },
+  {
+    "category": "Language",
+    "question": "From what Latin noun with what meaning do we derive the English word “cousin”?",
+    "answer": "SOROR – SISTER"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Whose reputation in Ithaca for being a willing messenger was not enough to elevate him from his lowly",
+    "answer": "IRUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What was the original name of Irus?",
+    "answer": "ARNAEUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "When Irus attempts to back down from the fight with Odysseus, which he instigated, whose",
+    "answer": "[SCORE CHECK]"
+  },
+  {
+    "category": "Language",
+    "question": "Being completely alliterative say in Latin “it is fitting for everyone to hate the orator”.",
+    "answer": "OMNĒS OPORTET ODISSE ORATOREM"
+  },
+  {
+    "category": "Language",
+    "question": "Again being alliterative say in Latin “let the foolish priest watch the sun.”",
+    "answer": "STULTUS SACERDOS SOLEM SPECTET"
+  },
+  {
+    "category": "Language",
+    "question": "Still being alliterative say in Latin “he will learn provided that you teach diligently”.",
+    "answer": "DISCET DUM(MODO) DILIGENTER DOCEAS"
+  },
+  {
+    "category": "Literature",
+    "question": "What author, born at Pieria, pioneered the genre of Latin fables by implementing a distinct set of structural",
+    "answer": "PHAEDRUS"
+  },
+  {
+    "category": "Language",
+    "question": "On whose Greek fables were Phaedrus’ modeled?",
+    "answer": "AESOP’S"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In what meter were Phaedrus’ fables written?",
+    "answer": "IAMBIC SENARII"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "A horse, which achieved the distinction of winning two hundred races, was given what honorific title?",
+    "answer": "DUCENARIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What well-known racer owned a horse which earned this distinction?",
+    "answer": "DIOCLES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Horses were often used for other spectacles in the circus. What term was given to the athletes",
+    "answer": "DESULTORES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The following question is a visual question. Once you receive your visuals do not open them until I say so,",
+    "answer": "EOS/AURORA/DAWN"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Eos once slept with Ares and incurred the wrath of Aphrodite. What was her punishment for this,",
+    "answer": "(HAD AN AFFINITY FOR) CARRYING OFF (BEAUTIFUL) YOUNG MEN"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Eos had many lovers. Which lover of Eos, a son of Poseidon himself, was abducted by her and",
+    "answer": "ORION"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Translate the following sentence into English. Saepe timeō nē regina deōrum irāta sit.",
+    "answer": "I OFTEN FEAR THAT THE QUEEN OF THE GODS IS ANGRY"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Translate this sentence into English. Utinam nē regina deōrum Iovem esse infīdelem invēnisset.",
+    "answer": "THAT JUPITER WAS UNFAITHFUL"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Translate this sentence into English. Cavē nē conāris adulterium uxōrem celāre.",
+    "answer": "[SCORE CHECK]"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What does the noun suffix -adēs denote, as exemplified by the nouns Atlantiādes and Scipiādes?",
+    "answer": "PATRONYMIC"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "To what class of nouns do homunculus and libellus belong?",
+    "answer": "DIMINITIVES"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Complete this analogy. aurum : aureus :: domus : _________.",
+    "answer": "DOMESTICUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "By pretending to give up his high ground, Caesar was able to lure Metellus Scipio and the Pompeians into a",
+    "answer": "THAPSUS"
+  },
+  {
+    "category": "History",
+    "question": "About what champion of the republic, following his suicide after the battle, was Caesar reported",
+    "answer": "(MARCUS PORCIUS) CATO THE YOUNGER (UTICENSIS)"
+  },
+  {
+    "category": "History",
+    "question": "Who was the only Pompeian commander to survive this battle and went on to lead the offensive",
+    "answer": "(TITUS) LABIENUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "For the verb fricō, give the perfect active infinitive form.",
+    "answer": "FRICUISSE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Give the perfect active infinitive form of mordeō.",
+    "answer": "MOMORDISSE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Two verbs share the third principal part crēvī. Give both possible meanings for the form crēvisse.",
+    "answer": "TO HAVE INCREASED (CRESCŌ)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What bard, a son of Philammon and Argiope, won the prize for singing at Delphi and became so famous that",
+    "answer": "THAMYRIS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In what two ways did the Muses punish Thamyris after he lost the contest?",
+    "answer": "DEPRIVED HIM OF HIS EYESIGHT & MUSICAL TALENT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Earlier in his life Thamyris had fallen in love with what youth from Amyclae, thus becoming the",
+    "answer": "[SCORE CHECK]"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What work, in the form of a dialogue set at the house of Curius Maternus, offers a discussion of the various",
+    "answer": "DIALOGUS DE ORATORIBUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "To what close friend did Tacitus dedicate his Dialogus De Oratoribus?",
+    "answer": "FABIUS IUSTUS"
+  },
+  {
+    "category": "Literature",
+    "question": "What author, contrary to Tacitus, affirms the Catonian ideal of a good orator as a “vir bonus peritus",
+    "answer": "ZELA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "After his swift victory, Caesar left Asia Minor in time to suppress an attempted mutiny of which of elite",
+    "answer": "TENTH LEGION"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which of Caesar’s former lieutenants opposed him at Thapsus and again at Munda where he was",
+    "answer": "ALCINOUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Where was Alcinous king?",
+    "answer": "SCHERIE OR DREPANE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Name Alcinous’ father who had previously led the Phaeacians from Hyperia to Drepane.",
+    "answer": "AULUS GELLIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "How many books were composed of this work, the Nocted Atticae?",
+    "answer": "20"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who were the intended audience for this work?",
+    "answer": "HIS CHILDREN"
+  },
+    {
+    "category": "Uncategorized",
+    "question": "In the sentence “Caesar wonders what Cicero is doing, translate “what Cicero is doing”.",
+    "answer": "QUID CICERO FACIAT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In the sentence “Cicero does not know why Caesar said that,” translate “why Caesar said that”.",
+    "answer": "CUR CAESAR ILLUD DIXERIT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In the sentence “Caesar and Cicero wondered whether they were friends,” translate “whether they",
+    "answer": "are friends”. NUM AMICĪ ESSENT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What two brothers, one a skilled pugilist and the other a horse tamer, became guardians of sailors and",
+    "answer": "CASTOR & POLLUX/POLYDEUCES / DIOSCURI"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What mortal, after killing Castor with a spear, was struck down by Zeus’ thunderbolt?",
+    "answer": "IDAS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What sister of the Dioscuri also vanished into the sky and became a guardian of sailors before",
+    "answer": "Polyxo was able to kill her? HELEN"
+  },
+  {
+    "category": "Literature",
+    "question": "“In novā fert animus mutātēs dicere formās” are the words that begin what author’s Metamorphoses?",
+    "answer": "(PUBLIUS) OVIDIUS (NASO)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Into how many books did Ovid divide his Metamorphoses? FIFTEEN",
+    "answer": ""
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The Metamorphoses and the Ars Armatoria contributed to Ovid’s exile to what location on the",
+    "answer": "black sea? TOMI"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What young man was declared a divī filius on January 1, 42 BC shortly after the deification of his",
+    "answer": "OCTAVIAN"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What fellow triumvir assisted Octavian in setting up proscriptions and pursing Caesar’s assassins?",
+    "answer": "MARCUS ANTONIUS / MARC ANTONY"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Octavian and Antony twice defeated the forces of Iunius Brutus and Cassius Longinus at what site",
+    "answer": "in 42 BC leading to their suicide? PHILIPPI"
+  },
+  {
+    "category": "Language",
+    "question": "Define the Latin noun “vitta”. FILLET / HEADBAND / RIBBON",
+    "answer": ""
+  },
+  {
+    "category": "Language",
+    "question": "Define the Latin noun “imber”. RAIN",
+    "answer": ""
+  },
+  {
+    "category": "Language",
+    "question": "Define the Latin “querela”. QUARREL / COMPLAINT / WHINNING",
+    "answer": ""
+  },
+  {
+    "category": "Uncategorized",
+    "question": "For the verb sequor, give all of the present imperative forms. SEQUERE & SEQUIMINĪ",
+    "answer": ""
+  },
+  {
+    "category": "Uncategorized",
+    "question": "For the same verb, give all of the infinitive forms.",
+    "answer": "SEQUĪ, SECŪTUS ESSE, SECŪTŪRUS ESSE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Again for the same verb, give all of the participial forms.",
+    "answer": "SEQUĒNS, SECŪTŪRUS, SECŪTUS, SEQUENDUS"
+  },
+  {
+    "category": "Literature",
+    "question": "What author discusses wandering simulacra and the theory of Clinamen in his didactic work De",
+    "answer": "Rerum Natura? LUCRETIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What goddess does Lucretius invoke in the opening lines of his work? VENUS",
+    "answer": ""
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What philosophy dominates the majority of this work? EPICUREANISM",
+    "answer": ""
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What woman after being purchased for twenty oxen was brought to Ithaca as a servant by Laertes,",
+    "answer": "although he never lay with her for fear of angering his wife Anticleia? EURYCLEIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In what capacity did Eurycleia serve Laertes? NURSE (FOR HIS SON ODYSSEUS)",
+    "answer": ""
+  },
+  {
+    "category": "Uncategorized",
+    "question": "How did Eurycleia recognize Odysseus when he returned to Ithaca, although disguised?",
+    "answer": "HUNTING SCAR ON HIS THIGH"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which of the following words, if any, is not a derivative of “ago”? Ambiguous, essay, exaggerate,",
+    "answer": "actual, agile EXAGGERATE"
+  },
+  {
+    "category": "Language",
+    "question": "What Latin noun with what meaning lies at the root of “exaggerate”?",
+    "answer": "AGGER – HEAP, PILE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What derivative of “ago” means to change from a fluid into a thickened mass?",
+    "answer": "COAGULATE"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first emperor of Rome to rule with a co-Augustus and became the last official member of",
+    "answer": "MARCUS AURELIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who was this co-Augustus who reigned from 161 to 169 AD and helped maintain order in the",
+    "answer": "LUCIUS VERUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Marcus Aurelius broke tradition and brought about the downfall of his dynasty when he appointed",
+    "answer": "ADOPTION"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "By what collective name do we know Arges, Brontes, and Steropes? CYCLOPES",
+    "answer": ""
+  },
+  {
+    "category": "History",
+    "question": "Why did Zeus release the Cyclopes from their prison in Tartarus during the war with the Titans?",
+    "answer": "IN ORDER TO FORGE HIS THUNDERBOLTS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What god ultimately killed the Cyclopes to avenge Zeus’ murder of his son Asclepius?",
+    "answer": "APOLLO"
+  },
+  {
+    "category": "Literature",
+    "question": "What author and member of the collegium scribarum histrionumque provided a direction for all of",
+    "answer": "LIVIUS ANDRONICUS"
+  },
+  {
+    "category": "History",
+    "question": "From what city in Magna Graecia had Andronicus been brought to Rome in 272 BC?",
+    "answer": "TARENTUM"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Although Andronicus composed an epic, he did not use the traditional dactylic hexameter. What",
+    "answer": "Round 2"
+  },
+  {
+    "category": "Literature",
+    "question": "What early Latin author demonstrated a unique sense of nationalism by first composing fabulae",
+    "answer": "GNAEUS NAEVIUS"
+  },
+  {
+    "category": "Language",
+    "question": "What is the Latin title of Naevius’ magnum opus which was an epic surrounding the events of the",
+    "answer": "First Punic War? BELLUM PUNICUM"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Naevius spent the final years of his life as an exile in Utica because of his lampoons of what",
+    "answer": "powerful Roman family? METELLI"
+  },
+  {
+    "category": "Language",
+    "question": "What Greek deity had the epithets “Delphinius” and “Smintheus”? APOLLO",
+    "answer": ""
+  },
+  {
+    "category": "Language",
+    "question": "What Greek deity had the epithets “Tritogeneia” and “Promachus”? ATHENA",
+    "answer": ""
+  },
+  {
+    "category": "Language",
+    "question": "What Greek deity had the epithets “Ennosigaeus” and “Gaiechos”? POSEIDON",
+    "answer": ""
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Translate into English: “Si pecūniam invenias, eam mihi mittas”.",
+    "answer": "IF YOU SHOULD FIND MONEY, YOU SHOULD SEND IT TO ME"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What type of conditional is illustrated by this sentence? FUTURE LESS VIVID",
+    "answer": ""
+  },
+  {
+    "category": "Language",
+    "question": "Now translate both verbs into Latin so that the sentence would be translated “if I had found money, I",
+    "answer": "would have sent it to you”. INVĒNISSEM, MĪSISSEM"
+  },
+  {
+    "category": "Language",
+    "question": "What Latin term refers to the first eight days of an infant’s life before it would receive its nōmen on the",
+    "answer": "diēs lustricus? PRIMORDIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "By what name would an infant be called during this period? PUPUS / PUPA",
+    "answer": ""
+  },
+  {
+    "category": "Uncategorized",
+    "question": "At birth a child would be accompanied by either a genius or a iuno to protect it from what evil",
+    "answer": "spirit? FASCINATIŌ"
+  },
+  {
+    "category": "Language",
+    "question": "Give the Latin verb and its meaning which lies at the root of the English words “sudden”, “perish”, and",
+    "answer": "“transition”. EŌ – TO GO"
+  },
+  {
+    "category": "Language",
+    "question": "Give the Latin preposition and its meaning which lies at the root of the English words “strange” and",
+    "answer": "“extreme”. EXTRĀ – BEYOND"
+  },
+  {
+    "category": "Language",
+    "question": "Give the Latin noun and its meaning which lies at the root of the English words “sauce” and",
+    "answer": "“salary”. SAL – SALT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "According to Ovid’s Metamophoses, into what is Nyctimene transformed after being raped by her",
+    "answer": "father? OWL"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Into what is Battus transformed for divulging information about Hermes’ theft of Apollo’s cattle?",
+    "answer": "STONE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Into what is Lycaon transformed for feeding Zeus the flesh of his own sons? WOLF",
+    "answer": "2"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "To what class of nouns do Cisseīs, Tydīdēs, and Scipiadēs belong because they indicate a person’s male",
+    "answer": "PATRONYMICS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What does the suffix –ōsus denote about the intended meaning of a noun?",
+    "answer": "FULL OF SOMETHING"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What does the suffix –trix denote about the quality of a noun?",
+    "answer": "FEMALE AGENCY (i.e. a female performs the action)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In 23 BC when Augustus fell gravely ill, to whom did he entrust his signet ring because his heir",
+    "answer": "Marcellus was too young to obtain power? AGRIPPA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "When Marcellus died young, what two sons of Agrippa and Julia did Augustus adopt as his heirs?",
+    "answer": "GAIUS (CAESAR) & LUCIUS (CAESAR)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What honorific title did Augustus secure for Gaius Caesar before he was appointed to the consulship",
+    "answer": "PRINCEPS IUVENTUTIS / HEAD OF THE CADETS OF THE EQUESTRIAN ORDER"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Complete the following analogy. Amō : amāvisse :: tangō : ____________. ",
+    "answer": "TĒTĪGISSE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Complete this analogy. Portō : portārī :: perducō : _____________. ",
+    "answer": "PERDUCĪ"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Complete this analogy. Spectō: spectātum :: pangō : _____________. ",
+    "answer": "PACTUM"
+  },
+  {
+    "category": "Literature",
+    "question": "What author begins his work with a short ethnographic treatise of Gaul before going on to elaborate on",
+    "answer": "(GAIUS JULIUS) CAESAR"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "How many books of the De Bellō Gallicō did Caesar write himself?",
+    "answer": "SEVEN"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What Roman commander was thought to have written the Bellum Alexandrinum and the Bellum",
+    "answer": "AULUS HIRTIUS"
+  },
+  {
+    "category": "History",
+    "question": "At what battle in 256 BC did the consuls Marcus Atilius Regulus and Lucius Manlius Vulso issue the",
+    "answer": "CAPE ECNOMUS"
+  },
+  {
+    "category": "History",
+    "question": "After this battle, the Carthaginians hired what Spartan mercenary to reorganize their army?",
+    "answer": "XANTHIPPUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Where did Xanthippus earn a victory over the Romans in the following year, capturing Regulus in",
+    "answer": "the process? BAGRADAS VALLEY"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who purchased a cow from King Pelagon with moon-shaped markings on its side and following the",
+    "answer": "advice of the Delphic Oracle established his city where it finally lay to rest? CADMUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What eponymous name did Cadmus give to this city before it was later renamed Thebes?",
+    "answer": "CADMEIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What musician and future king of Thebes built the city’s seven walls with his lyre and renamed the",
+    "answer": "Round 3"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What son of Cephissus and Liriope was loved by a garrulous nymph who wasted away after she failed to",
+    "answer": "NARCISSUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What deity arranged for Narcissus to drink from this spring? NEMESIS",
+    "answer": ""
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What did Narcissus become after he wasted while looking at his reflection? FLOWER",
+    "answer": ""
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Differentiate in meaning between fax & faex. FAX – TORCH & FAEX – DREGS",
+    "answer": ""
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Differentiate in meaning between rabies & scabies.",
+    "answer": "RABIES – MADNESS & SCABIES – ITCH, SCAB"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Differentiate in meaning between corvus & torvus.",
+    "answer": "CORVUS – RAVEN, CROW & TORVUS – GRIM, FIERCE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Pomulum, Armeniacum, Punicum, and Persicum are all variations of what fruit which Romans also",
+    "answer": "simply called malum? APPLES"
+  },
+  {
+    "category": "History",
+    "question": "What is the Latin term for the fruit which the general Lucullus first brought to Rome from his Eastern campaigns?",
+    "answer": " CERASUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "These fruits are only some of the various snacks that a hungry Roman could pick up from local",
+    "answer": "fast-food establishments? THERMOPOLIUM"
+  },
+  {
+    "category": "Literature",
+    "question": "What poet proudly claims that Homer appeared to him in a dream and declared him to be his",
+    "answer": "reincarnation as told in the proem to his Annales? (QUINTUS) ENNIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "How many books comprise Ennius’ Annales? ",
+    "answer": "EIGHTEEN"
+  },
+  {
+    "category": "History",
+    "question": "What nephew of Ennius was referred to by Cicero as Rome’s greatest tragedian?",
+    "answer": "(MARCUS) PACUVIUS"
+  },
+  {
+    "category": "Language",
+    "question": "Translate only the apodosis of the following sentence into Latin. He would fight bravely, if he should be",
+    "answer": "attacked. FORTITER PUGNET"
+  },
+  {
+    "category": "Language",
+    "question": "Translate only the apodosis in that sentence into Latin if it instead read as “he would fight bravely, if he were being attacked”.",
+    "answer": " FORTITER PUGNĀRET"
+  },
+  {
+    "category": "Language",
+    "question": "Translate only the apodosis in that sentence into Latin if it instead read as “he would have fought bravely, if he had been attacked”.",
+    "answer": " FORTITER PUGNĀVISSET"
+  },
+  {
+    "category": "History",
+    "question": "At what battle in 216 BC was a force of 70,000 Romans virtually annihilated by Hannibal and the",
+    "answer": "CANNAE"
+  },
+  {
+    "category": "History",
+    "question": "Who was re-appointed as dictator after the battle to resume his delaying tactics which had prevented",
+    "answer": "(QUINTUS) FABIUS MAXIMUS (CUNCTATOR)"
+  },
+  {
+    "category": "Language",
+    "question": "Give the Latin verb and its meaning which lies at the root of “tile” and “protect”.",
+    "answer": "TEGŌ – TO COVER"
+  },
+  {
+    "category": "Language",
+    "question": "Give the Latin noun and its meaning which lies at the root of “square” and “squad”.",
+    "answer": "QUATTUOR – FOUR"
+  },
+  {
+    "category": "Language",
+    "question": "Give the Latin noun and its meaning which lies at the root of “antler” and “binocular”.",
+    "answer": "OCULUS – EYE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Against whom did Cicero deliver fourteen speeches which were modeled on the Philippics of",
+    "answer": "Demosthenes of Athens? MARC ANTONY"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which of Cicero’s speeches was his first ever in a criminal case? ",
+    "answer": "PRO QUINCTIŌ"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which of Cicero’s speeches brought him against Chrysogonus, a powerful feedman of Sulla, in his defense of a man accused of patricide?",
+    "answer": "PRO ROSCIŌ (AMERINŌ)"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What emperor, whose final words may have been “sero, haec est fīdēs”, was said to have been so",
+    "answer": "NERO"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Alternatively Nero’s final words may have been “qualis artifex pereō”. What is the English translation for this phrase? ",
+    "answer": "WHAT AN ARTIST DIES IN ME"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "During Nero’s reign, who formulated a conspiracy which implicated several notable Romans",
+    "answer": "(GNAEUS CALPURNIUS) PISO"
+  },
+  {
+    "category": "Literature",
+    "question": "When Catullus writes to Lesbia, Tibullus to Delia, and Propertius to Cynthia, what later author identifies each of these women by their actual names in his Apologia? ",
+    "answer": "APULEIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "For what woman does Apuleius claim the name Lesbia to be a pseudonym? ",
+    "answer": "CLODIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The Apologia itself was meant to be a defense speech. Against what accusation was Apuleius defending himself? ",
+    "answer": "WITCHCRAFT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What use of the ablative case can be found in this sentence? Domum tribus talentīs addixit.",
+    "answer": "PRICE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What two uses of the ablative case can be found in the following sentence? Certāmen mihi est multō carior aliīs ludīs",
+    "answer": ". COMPARISON & DEGREE OF DIFFERENCE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What use of the ablative case can be found in this sentence? Templum de marmore aedificāvit.",
+    "answer": "MATERIAL"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "During their duel Aeneas would have spared Turnus if he had not noticed that his opponent had arrogantly adorned the girdle of which of his young companions whom he had killed?",
+    "answer": " PALLAS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What ally of Aeneas had sent his son Pallas to fight in his place because he himself was too old?",
+    "answer": "EVANDER"
+  },
 
+  {
+    "category": "Uncategorized",
+    "question": "What man disguises as both Aethon and Epiritus, before finally revealing his true identity at a banquet and killing all of his wife’s suitors? ",
+    "answer": "ODYSSEUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which of Odysseus’ herdsmen betrayed him by arming the suitors with weapons from his storeroom? ",
+    "answer": "MELANTHIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "On which suitor, the first whom Odysseus kills, does Eurymachus blame the recent palace crimes",
+    "answer": "ANTINOÜS"
+  },
+  {
+    "category": "Language",
+    "question": "“Meager” and “emaciate” ultimately derive from what Latin adjective with what meaning?",
+    "answer": "MACER – THIN"
+  },
+  {
+    "category": "Language",
+    "question": "What Latin noun with what meaning lies at the root of “apron”? ",
+    "answer": "MAPPA – NAPKIN"
+  },
+  {
+    "category": "Language",
+    "question": "What English derivative of the Latin noun which means “spot” or “stain” describes something which is free from flaw or impurity? ",
+    "answer": "IMMACULATE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What conflict of the late republic began when Lentulus Batiatus allowed conditions in his ludī",
+    "answer": "REVOLT OF SPARTACUS / THIRD SERVILE WAR"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Name one of the two slaves who served as subordinates to Spartacus and leaders in organizing the rebellion? ",
+    "answer": "OENOMAUS / CRIXUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who attempted to claim credit for Crassus’ victories over the insurgent gladiators, by crucifying 6,000 survivors along the Via Appia? ",
+    "answer": "(GNAEUS) POMPEY"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which character in the Aeneid speaks the following lines which I shall read as prose?",
+    "answer": "miscere, et tantās audētis tollere molēs?” NEPTUNE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which character in the Aeneid speaks these lines which I shall read as prose? “Tuus, O regina, quid optēs explorāre labor; mihi iussa capessere fas est.”",
+    "answer": " AEOLUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What emperor, shortly after a light skirmish at Locus Castrorum, was defeated near Bedriacum by the",
+    "answer": "OTHO"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What two commanders issued Otho this defeat?",
+    "answer": "(AULUS) CAECINA & (FABIUS) VALENS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What princess of Megara was given a golden necklace and convinced to betray her father to King Minos, by clipping his purple lock of hair which was the link to his mortality? ",
+    "answer": "SCYLLA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "How did Minos repay her for delivering him her father’s kingdom?",
+    "answer": "KILLED HER / DROWNED HER"
+  },
+  {
+    "category": "Literature",
+    "question": "What author, born at Suessa Aurunca, established hexameter as the official meter of Latin satire which, he used in the composition of his 30 Sermones? ",
+    "answer": "LUCILIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What later Roman satirist refers to Lucilius as his “lantern” and models his poem about a journey to Brundisium on Lucilius’ Iter Siculum? ",
+    "answer": "HORACE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "After his swift victory, Caesar left Asia Minor in time to suppress an attempted mutiny of which of his elite legion",
+    "answer": "TENTH LEGION"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Which of Caesar’s former lieutenants opposed him at Thapsus and again at Munda where he was eventually killed",
+    "answer": "(TITUS) LABIENUS"
+  },
+  {
+    "category": "Literature",
+    "question": "In which play of Plautus is an old man named Theopropides convinced by his slave Tranio that his house is haunted? ",
+    "answer": "MOSTELLARIA"
+  },
+  {
+    "category": "Literature",
+    "question": "In which play of Plautus does the slave Palaestrio swindle the soldier Pyrgopolyneices out of the girl he purchased? ",
+    "answer": "MILES GLORIOSUS"
+  },
+  {
+    "category": "Literature",
+    "question": "In which play of Plautus is the seemingly unlikely marriage between Lyconides and Phaedria made possible in part by a large pot of gold? ",
+    "answer": "AULULARIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What use of the dative case can be found in the following sentence? Haec prōvincia nōbīs dēfendenda",
+    "answer": "AGENT"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What use of the genitive case can be found in the following sentence? Cicerō fugam malōrum urbī dēdit",
+    "answer": ". OBJECTIVE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What use of the accusative case can be found in the following sentence? Terentius tūtiōrem vītam vīvere vult. ",
+    "answer": "COGNATE / KINDRED SPECIFICATION"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The Trojan allies Coroebus and Othryoneus both gave their allegiance to Priam in hopes of marrying her divinations? ",
+    "answer": "CASSANDRA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who was killed by Athena as he sat upon the rock Gyrae as punishment for raping Cassandra at her altar? ",
+    "answer": "AJAX THE LESSER / LOCRIAN AJAX"
+  },
+  {
+    "category": "Language",
+    "question": "To which Greek did Cassandra bear the sons Teledamus and Pelops as he brought her home to Mycenae as a concubine? ",
+    "answer": "AGAMEMNON"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "For the verb tangō, give the third person singular, imperfect active subjunctive. ",
+    "answer": "TANGERET"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Change tangeret to the pluperfect tense. ",
+    "answer": "TĒTĪGISSET"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Make tētīgisset passive. ",
+    "answer": "TACTUS ESSET"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Complete the following analogy. meī : mīs :: mē : _______. ",
+    "answer": "MĒD"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Complete this analogy. ille : iste :: illic : ______. ",
+    "answer": "ISTIC"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What three letter ending can be added to the ablative singular of possessive pronouns to express emphasis",
+    "answer": "-PTE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "It can be said that Roman emperors stood a head above the rest. However what emperor from the Third",
+    "answer": "MAXIMINUS THRAX"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What two men did the Senate appoint at joint rulers to confront Maximinus after the death of the previous appointee Marcus Antonius Gordianus and his son?",
+    "answer": " BALBINUS & PUPIENUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Where in northern Italy was Maximinus cut down by his own troops despite his success against these Senatorial appointees? ",
+    "answer": "AQUILEIA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Heracles once performed several tasks for the Lydian queen Omphale. As part of his servitude, he was",
+    "answer": "SYLEUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What constellation commemorates Heracles’ killing of a giant snake near the Sagaris River as",
+    "answer": "OPHIUCHUS / THE SERPENT-HOLDER"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What was humiliating about the manner in which Heracles was forced to perform several of these",
+    "answer": "HE HAD TO WEAR WOMEN’S CLOTHING"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "“I was on the ground, my wings clipped, deprived of the house and the farm of my father: insolent",
+    "answer": "HORACE"
+  },
+  {
+    "category": "Literature",
+    "question": "What two contemporary authors introduced Horace to his future patron Maecenas?",
+    "answer": "VERGIL & VARIUS RUFUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What work, dedicated to both Apollo and Artemis, did Horace compose as a chorus of 27 girls and boys for the Secular Games of 23 BC? ",
+    "answer": "CARMEN SAECULARE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Translate the following sentence into English. Lucius verētur ut hodië filius domum redeat.",
+    "answer": "LUCIUS FEARS THAT HIS SON IS NOT RETURNING HOME TODAY"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Translate: Lucius trēs ex amicīs mīsit quī filium inveniant.",
+    "answer": "LUCIUS SENT THREE FRIENDS TO FIND HIS SON"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The phrases “vī et armīs” and “gemitus iraeque” exemplify what figure of speech other than alliteration, consonance, or assonance? ",
+    "answer": "HENDIADYS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Identify two figures of speech, other than alliteration, consonance, or assonance, which can be found",
+    "answer": "ANAPHORA / TRICOLON / ASYNDETON"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Identify two figures of speech other than alliteration, consonance, or assonance which can be found",
+    "answer": "POLYSYNDETON / PLEONASM / ZEUGMA"
+  },
+  {
+    "category": "History",
+    "question": "At what battle in Tusculum were the Romans, encouraged by the sight of the Castor and Pollux, able to rally to victory against the Latin League? ",
+    "answer": "LAKE REGILLUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Near what body of water were the Dioscuri said to have been seen watering their horses during this battle of Lake Regillus? ",
+    "answer": "SPRING OF JUTURNA"
+  },
+  {
+    "category": "History",
+    "question": "At whose court in Cumae did the refugee Tarquinnius Superbus die shortly after this battle?",
+    "answer": "ARISTODEMUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What use of the ablative case can be found in the following sentence? Laetitiā exsultāre coepit.",
+    "answer": "ABLATIVE OF CAUSE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "…in this sentence? Moenia hostium lateribus constābant. ",
+    "answer": "ABLATIVE OF MATERIAL"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "…in this sentence? Militēs Romanī virtūte praecēdunt.",
+    "answer": "ABLATIVE OF SPECIFICATION / RESPECT"
+  },
+  {
+    "category": "Myth",
+    "question": "In the Aeneid, what son of Hyrtacus is awarded a shield from Neptune’s shrine after protesting against not slipped in the blood of a sacrificial animal? ",
+    "answer": "NISUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "When Nisus fell, he was able to secure victory for his friend Euryalus by tripping up what other",
+    "answer": "contender in the race? SALIUS"
+  },
+  {
+    "category": "Language",
+    "question": "Unfortunately Nisus was not always able to save his best friend. What Latin horseman killed",
+    "answer": "VOLCENS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Whose aggressive attempts to raid Roman territory in Moesia compelled the emperor Domitian to",
+    "answer": "DECEBALUS"
+  },
+  {
+    "category": "History",
+    "question": "During the reign of Trajan, this war with Decebalus was renewed. The site of what Dacian capital annexed? ",
+    "answer": "SARMIZEGETHUSA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What colony did Trajan establish on the former site of Sarmizegethusa?",
+    "answer": "COLONIA ULPIA TRAIANA"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Give the accusative singular of the phrase “the same bold army”.",
+    "answer": "EUNDEM AUDĀCEM EXERCITUM"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Change “eundem audacem exercitum” to the ablative",
+    "answer": ". EŌDEM AUDĀCĪ EXERCITŪ"
+  },
+  {
+    "category": "Literature",
+    "question": "Forbidden from staging his Brutus in 44 BC, what author commemorates the expulsion of the Tarquins",
+    "answer": "LUCIUS ACCIUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What cothurnata of Accius is our original source for the quote “oderint dum metuant”?",
+    "answer": "ATREUS"
+  },
+  {
+    "category": "Language",
+    "question": "Which work of Accius offers a history of Greek and Roman Theater and proposes a series of spelling reforms based on principles of analogy?",
+    "answer": " DIDASCALICA"
+  },
+  {
+    "category": "Literature",
+    "question": "What Silver Age author refuses to write on mythological subjects, instead remarking “hominem pagina nostra sapit” in one of his epigrams",
+    "answer": "MARTIAL"
+  },
+  {
+    "category": "Literature",
+    "question": "Martial once said of his humble farm in Nomentum that it was so small that it could fit under the",
+    "answer": "wings of what type of creature? CRICKET / CICADA / GRASSHOPPER"
+  },
+  {
+    "category": "Literature",
+    "question": "What poetic work was Martial commissioned to write for the opening of the Colosseum?",
+    "answer": "LIBER SPECTACULŌRUM / LIBER DE SPECTACULĪS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "What ritual, during which prayers would be offered to the deities Tellus, Picumnus, and Pilumnus, was hopes of a happy marriage? ",
+    "answer": "CONFARREATIŌ"
+  },
+  {
+    "category": "Language",
+    "question": "What is the Latin term given to the young boy who carried the small basket of utensils necessary",
+    "answer": " CAMILLUS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "In order to be selected as Camillus, a boy had to fulfill the condition of “patrīmus et matrīmus”.",
+    "answer": "BOTH PARENTS NEEDED TO BE ALIVE AT THE TIME OF THE CEREMONY"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Who was this sister of Althaemenes?",
+    "answer": "APEMOSYNE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "After some time, Catreus decided to leave his kingdom to Althaemenes, so he went to Rhodes to",
+    "answer": "SWALLOWED UP BY EARTH"
+  },
+  {
+    "category": "Literature",
+    "question": "What author speaks of his troubled childhood and his practice of both Manichaeism and Neoplatonism",
+    "answer": "ST. AUGUSTINE"
+  },
+  {
+    "category": "Literature",
+    "question": "In what African city did Augustine become an ordained priest and later a bishop?",
+    "answer": "HIPPO (REGIUS)"
+  },
+  {
+    "category": "Literature",
+    "question": "In what later work does Augustine attempt answer questions about the calamities that had befallen the empire while still promoting the ideal city of god?",
+    "answer": " DE CIVITĀTE DEĪ"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Translate the following sentence into English. Agricola vel uxorī vel filiō persuasit ut bovēs mulgeret.",
+    "answer": "THE FARMER PERSUADED EITHER HIS WIFE OR SON TO MILK THE COWS"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Translate this sentence into English. Omnes liberī miratī sunt utrum pullus an ovum primum",
+    "answer": "FIRST"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "Give another correlative pair which has the same meaning as “utrum…an”.",
+    "answer": "SĪVE (SEU)…SĪVE (SEU)"
+  },
+  {
+    "category": "Language",
+    "question": "Which of the following words if any does not share the same Latin root as the others? vicinity, prudence,envy, purvey",
+    "answer": " VICINITY"
+  },
+  {
+    "category": "Language",
+    "question": "What Latin noun with what meaning lies at the root of “vicinity”?",
+    "answer": "VĪCUS – VILLAGE, HAMLET"
+  },
+  {
+    "category": "Language",
+    "question": "What Latin verb with what meaning lies at the root of the other words in the toss-up?",
+    "answer": "VIDEŌ – TO SEE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "According to Apollonius, when fruit, flowers, and springs sprouted from the earth as the Argonauts favorable winds for sailing? ",
+    "answer": "CYBELE"
+  },
+  {
+    "category": "Uncategorized",
+    "question": "The clashing of their shields and spears drowned out the noise of what tribe as they mourned the death of their king Cyzicus whom the Argonauts had recently killed? ",
+    "answer": "DOLIONES"
+  },
+  {
+    "category": "Myth",
+    "question": "What seer had interpreted the cries of a kingfisher to mean that the Argonauts could only be purified for the murder by honoring Cybele at her shrine? ",
+    "answer": "MOPSUS"
+  }
 
 ]
-
