@@ -299,8 +299,6 @@
 
     </div>
 
-<!-- Category Selection Modal -->
-<!-- Category Selection Modal -->
 <div id="categorySelection" class="modal" style="display:flex;">
     <div class="category-content">
         <h2>Select Categories</h2>
@@ -310,12 +308,11 @@
         <label><input type="checkbox" id="literature" checked> Literature</label><br>
         <label><input type="checkbox" id="history" checked> History</label><br>
         <label><input type="checkbox" id="uncategorized" checked> Uncategorized</label><br>
-        <label><input type="checkbox" id="faulty"> Faulty</label><br><br> <!-- New "faulty" category -->
+        <label><input type="checkbox" id="faulty"> Faulty</label><br><br> <!--  "faulty" category -->
         <button onclick="startGame()">Start</button>
     </div>
 </div>
 
-<!-- Modal for log -->
 <div class="modal" id="logModal">
     <div class="modal-content" style="max-height: 70vh; overflow-y: auto;">
         <h2>Quiz Log</h2>
@@ -337,13 +334,11 @@
     let buzzedWord = "";
     let buzzedTimeLeft = 30;
 
-    // Add this variable to track the current question being reported
 let currentQuestionToReport = null;
 
-// Add this event listener for the "Report Wrong Category" button
 document.getElementById("reportWrongCategoryButton").onclick = function () {
-    currentQuestionToReport = questions[currentQuestionIndex].question; // Track the current question
-    document.getElementById("categorySelectionModal").style.display = "flex"; // Show the modal
+    currentQuestionToReport = questions[currentQuestionIndex].question; //  the current question
+    document.getElementById("categorySelectionModal").style.display = "flex"; //  the modal
 };
 
 function checkPassword() {
