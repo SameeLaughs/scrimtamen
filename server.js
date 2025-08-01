@@ -53,7 +53,7 @@ app.post('/report', (req, res) => {
         timestamp: new Date().toLocaleString(),
     };
 
-    // Read current reports
+    //  current reports
     fs.readFile('reported_questions.json', 'utf8', (err, data) => {
         if (err && err.code !== 'ENOENT') {
             console.error('Error reading file:', err);
@@ -72,14 +72,14 @@ app.post('/report', (req, res) => {
 
         reports.push(reportedQuestion);
 
-        // Save the updated reports
+        // save the updated reports
         fs.writeFile('reported_questions.json', JSON.stringify(reports, null, 2), (err) => {
             if (err) {
                 console.error('Error writing to file:', err);
                 return res.status(500).send('Error saving report');
             }
 
-            // Now update the questions.json file to move the reported question to the "faulty" category
+            // to the "faulty" category
             fs.readFile('questions.json', 'utf8', (err, data) => {
                 if (err) {
                     console.error('Error reading questions file:', err);
@@ -96,15 +96,15 @@ app.post('/report', (req, res) => {
                     }
                 }
 
-                // Find the reported question and update its category to "faulty"
+                // find and update its category to "faulty"
                 const updatedQuestions = questions.map(q => {
                     if (q.question === question) {
-                        q.category = "faulty"; // Move to "faulty" category
+                        q.category = "faulty"; //  to "faulty" category
                     }
                     return q;
                 });
 
-                // Save the updated questions
+                // grr
                 fs.writeFile('questions.json', JSON.stringify(updatedQuestions, null, 2), (err) => {
                     if (err) {
                         console.error('Error writing to questions file:', err);
@@ -119,7 +119,6 @@ app.post('/report', (req, res) => {
     });
 });
 
-// Add this endpoint to your Express server
 app.post("/update-category", (req, res) => {
     const { question, newCategory } = req.body;
 
@@ -127,7 +126,6 @@ app.post("/update-category", (req, res) => {
         return res.status(400).send("Missing question or new category.");
     }
 
-    // Read the questions.json file
     fs.readFile("questions.json", "utf8", (err, data) => {
         if (err) {
             console.error("Error reading questions file:", err);
@@ -144,15 +142,13 @@ app.post("/update-category", (req, res) => {
             }
         }
 
-        // Find the question and update its category
         const updatedQuestions = questions.map((q) => {
             if (q.question === question) {
-                q.category = newCategory; // Update the category
+                q.category = newCategory; // new categ
             }
             return q;
         });
 
-        // Save the updated questions
         fs.writeFile("questions.json", JSON.stringify(updatedQuestions, null, 2), (err) => {
             if (err) {
                 console.error("Error writing to questions file:", err);
